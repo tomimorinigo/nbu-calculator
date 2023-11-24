@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 1.5px;
+    margin-bottom: 20px;
+}
+
+button{
+    font-size: 14px;
+    padding: 0.6em 1em;
+    outline: none;
+    cursor: pointer;
+    transition: all .4s ease;
+    /* height: 45px;
+    width: 100px; */
+    border-radius: 5px;
+    border: 2px solid #000;
+    background-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

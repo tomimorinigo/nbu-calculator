@@ -1,0 +1,5414 @@
+[{"codigo":1, "practica":"ACTO BIOQUIMICO", "ub":3.0},
+ {"codigo":2, "practica":"ACETONURIA", "ub":1.0},
+ {"codigo":4, "practica":"ACIDIMETRIA GASTRICA   CURVA DE", "ub":3.0},
+ {"codigo":5, "practica":"ACIDO BASE   Estado Acido Base (EAB)", "ub":10.0},
+ {"codigo":6, "practica":"ACTH   HORMONA ADRENOCORTICOTROFINA", "ub":12.0},
+ {"codigo":7, "practica":"ADDIS  RECUENTO DE", "ub":2.0},
+ {"codigo":14, "practica":"AGLUTININAS del SISTEMAS ABO", "ub":3.0},
+ {"codigo":15, "practica":"ALBUMINA", "ub":1.5},
+ {"codigo":16, "practica":"ALCOHOL DEHIDROGENASA  ADH", "ub":10.0},
+ {"codigo":17, "practica":"ALCOHOLEMIA", "ub":10.0},
+ {"codigo":18, "practica":"ALDOLASA", "ub":6.0},
+ {"codigo":19, "practica":"ALDOSTERONA", "ub":15.0},
+ {"codigo":20, "practica":"ALFA FETO PROTEINA", "ub":10.0},
+ {"codigo":22, "practica":"AMILASA  serica", "ub":4.0},
+ {"codigo":23, "practica":"AMILASA  urinaria", "ub":4.0},
+ {"codigo":25, "practica":"AMINOACIDOS FRACCIONADOS (Cromatografia  por fraccion)", "ub":12.5},
+ {"codigo":27, "practica":"AMINOACIDURIA FRACCIONADA (Cromatografia  por fraccion)", "ub":12.5},
+ {"codigo":28, "practica":"AMNIOTICO   LIQUIDO CELULAS NARANJAS", "ub":1.0},
+ {"codigo":29, "practica":"AMNIOTICO  LIQUIDO  (Espectrofotometria  Test de Lisley)", "ub":5.0},
+ {"codigo":30, "practica":"AMNIOTICO  LIQUIDO LECITINA  ESFINGOMIELINA", "ub":5.0},
+ {"codigo":31, "practica":"AMONEMIA", "ub":20.0},
+ {"codigo":32, "practica":"AMP CICLICO", "ub":15.0},
+ {"codigo":33, "practica":"ANGIOTENSINA", "ub":15.0},
+ {"codigo":34, "practica":"ANHIDRASA CARBONICA B  ERITROCITARIA", "ub":2.0},
+ {"codigo":35, "practica":"ANTIBIOGRAMA", "ub":4.0},
+ {"codigo":36, "practica":"ANTIBIOGRAMA BACILO DE KOCH (7) siete antibioticos", "ub":60.0},
+ {"codigo":40, "practica":"ANTICUERPOS ANTIGLOMERULAR    (IFI)", "ub":6.0},
+ {"codigo":41, "practica":"ANTICUERPOS ANTIMENBRANA BASAL   (IFI)", "ub":6.0},
+ {"codigo":42, "practica":"ANTICUERPO ANTIMUSCULO LISO   (IFI)", "ub":7.0},
+ {"codigo":43, "practica":"ANTICUERPOS CONTRA CEPA BACTERIANA AISLADA", "ub":3.0},
+ {"codigo":44, "practica":"ANTICUERPOS ANTIFRACCION MICROSOMAL DE TIROIDES  (IFI)", "ub":6.0},
+ {"codigo":46, "practica":"ANTICUERPOS ANTITIROGLOBULINA", "ub":6.0},
+ {"codigo":49, "practica":"ANTIDESIXIRRIBONUCLEASA  ADNEASA \u00e2\u20ac\u201c AntiDNA", "ub":9.0},
+ {"codigo":50, "practica":"ANTIESTAFILOLISINA", "ub":3.0},
+ {"codigo":51, "practica":"ANTIESTREPTOLISINAS \"O\"\" (ASTO  AELO)\"", "ub":4.0},
+ {"codigo":52, "practica":"ANTIESTREPTOQUINASA", "ub":3.0},
+ {"codigo":54, "practica":"ANTIHIALURONIDASA", "ub":4.0},
+ {"codigo":55, "practica":"ANTIMITOCONDRIALES   ANTICUERPOS", "ub":7.0},
+ {"codigo":56, "practica":"ANTINUCLEARES ANTICUERPOS  FAN", "ub":7.0},
+ {"codigo":57, "practica":"ANTITRIPSINA  Alfa 1  Liq Pleural o Mat Fecal o Serica  C/U  (por IDCuantitativa)", "ub":10.0},
+ {"codigo":58, "practica":"ANTITROMBINA III  con calibracion de tres (3) puntos", "ub":15.0},
+ {"codigo":59, "practica":"ARSENICO", "ub":15.0},
+ {"codigo":60, "practica":"ASCORBICO   ACIDO", "ub":18.0},
+ {"codigo":61, "practica":"AUTOVACUNA  (no se aconseja por recomendacion medica)", "ub":5.0},
+ {"codigo":63, "practica":"ANTICUERPOS Anti HIV (ELISA)", "ub":11.0},
+ {"codigo":64, "practica":"ANTICUERPOS Anti HIV  (AD)  ", "ub":11.0},
+ {"codigo":101, "practica":"BACILOSCOPIA DIRECTA  ZIEHL NEELSEN (por muestra)", "ub":2.0},
+ {"codigo":102, "practica":"BACILOSCOPIA  DIRECTA y CULTIVO (por muestra)", "ub":8.0},
+ {"codigo":103, "practica":"BACILOSCOPIA  (IFI  por muestra)", "ub":10.0},
+ {"codigo":104, "practica":"BACTERIOLOGIA  DIRECTA (Coloracion de Gram)", "ub":2.0},
+ {"codigo":105, "practica":"BACTERIOLOGICO  DIRECTOCULTIVO e IDENTIFICACION del GERMEN)", "ub":5.0},
+ {"codigo":107, "practica":"BARBITURICOS   urinarios ", "ub":12.0},
+ {"codigo":108, "practica":"BENCE JONES   PROTEINAS DE", "ub":3.0},
+ {"codigo":110, "practica":"BILIRRUBINEMIA TOTAL  DIRECTA E INDIRECTA", "ub":1.5},
+ {"codigo":111, "practica":"BILIRRUBINURIA", "ub":1.5},
+ {"codigo":131, "practica":"CADENA LIVIANA KAPPA Y LAMBDA  serico o urinario", "ub":40.0},
+ {"codigo":132, "practica":"CADMIO  urinario ", "ub":12.0},
+ {"codigo":133, "practica":"CALCEMIA TOTAL", "ub":1.5},
+ {"codigo":134, "practica":"CALCIO IONICO", "ub":4.0},
+ {"codigo":135, "practica":"CALCIO PRUEBA DE LA SOBRECARGA", "ub":5.0},
+ {"codigo":136, "practica":"CALCIURIA", "ub":2.0},
+ {"codigo":137, "practica":"CALCITONINA  serica", "ub":16.0},
+ {"codigo":138, "practica":"CALCULO  urinario ", "ub":8.0},
+ {"codigo":140, "practica":"CARIOTIPO   MAPA CROMOSOMICO", "ub":37.0},
+ {"codigo":141, "practica":"CAROTENO BETA  serico", "ub":15.0},
+ {"codigo":143, "practica":"CATECOLAMINAS  (ADRENALINA y NORADRENALINA) ", "ub":25.0},
+ {"codigo":144, "practica":"CEA  ANTIGENO CARCINOEMBRIOGENICO", "ub":12.5},
+ {"codigo":148, "practica":"CELULAS NEOPLASICAS  liquidos  exudados  trasudados", "ub":9.0},
+ {"codigo":151, "practica":"CERULOPLASMINA", "ub":6.0},
+ {"codigo":152, "practica":"CETOGENOESTEROIDES  urinarios", "ub":5.0},
+ {"codigo":154, "practica":"CETONEMIA", "ub":1.5},
+ {"codigo":157, "practica":"17 CETOESTEROIDES NEUTROS TOTALES  ", "ub":5.0},
+ {"codigo":158, "practica":"17 CETOESTER   PRUEBA/Rta DE LOS  A LA ESTIMULACION CON ACTH  ", "ub":5.0},
+ {"codigo":159, "practica":"17 CETOESTER   PRUEBA/Rta DE LOS  A LA INHIBIC CON DEXAMETASONA ", "ub":5.0},
+ {"codigo":160, "practica":"17 CETOESTER  PRUEBA/Rta DE LOS  A LA INHIB C/DEXAMET Y ESTIMULc/GONADCORIONICAS", "ub":5.0},
+ {"codigo":161, "practica":"17 CETOESTER Y 17 HIDROXICORT  Pba/Rtade los  A LA ESTIMULc/ ACTH ", "ub":10.0},
+ {"codigo":163, "practica":"CITOLOGIA EXFOLIATIVA", "ub":6.0},
+ {"codigo":164, "practica":"CITOLOGIA VAGINAL HORMONAL  DE UNA (1) MUESTRA", "ub":5.0},
+ {"codigo":166, "practica":"CITOLOGIA VAGINAL HORMONAL DE UN (1) CICLO ", "ub":5.0},
+ {"codigo":167, "practica":"CITRICO  ACIDO", "ub":6.0},
+ {"codigo":168, "practica":"CLORO  serico ", "ub":2.0},
+ {"codigo":169, "practica":"COAGULACION  TIEMPO DE    (se elimina= y SANGRIA  TIEMPO DE )", "ub":1.0},
+ {"codigo":170, "practica":"COAGULO  RETRACCION DEL", "ub":1.0},
+ {"codigo":171, "practica":"COAGULOGRAMA", "ub":5.5},
+ {"codigo":172, "practica":"COBRE  serico", "ub":12.0},
+ {"codigo":173, "practica":"COCAINA  (Inmunocromatografia/Cromatografico)", "ub":17.5},
+ {"codigo":174, "practica":"COLESTEROL TOTAL", "ub":1.5},
+ {"codigo":176, "practica":"COLONIAS   RECUENTO DE", "ub":2.0},
+ {"codigo":177, "practica":"COMPATIBILIDAD   sangre materna", "ub":6.0},
+ {"codigo":178, "practica":"COMPATIBILIDAD MATRIMONIAL  sanguinea en conyuges", "ub":5.0},
+ {"codigo":179, "practica":"COMPLEMENTO  ACTIVIDAD TOTAL", "ub":5.0},
+ {"codigo":180, "practica":"COMPLEMENTO  VALORACION INMUNOQUIMICA", "ub":5.0},
+ {"codigo":181, "practica":"CONCENTRACION DE LIQUIDOS BIOLOGICOS ", "ub":5.0},
+ {"codigo":182, "practica":"CONCENTRACION  PRUEBA DE LA  FUNCION RENAL", "ub":1.0},
+ {"codigo":184, "practica":"COOMBS DIRECTA   PRUEBA DE", "ub":2.0},
+ {"codigo":186, "practica":"COOMBS INDIRECTA o RH variedad D\u00c2\u00b5", "ub":6.0},
+ {"codigo":187, "practica":"COPROCULTIVO", "ub":8.0},
+ {"codigo":188, "practica":"COPROPORFIRINAS", "ub":8.0},
+ {"codigo":189, "practica":"CORTISOL", "ub":10.0},
+ {"codigo":190, "practica":"CREATINQUINASA  CPK", "ub":3.0},
+ {"codigo":191, "practica":"CREATINA   serica o urinaria  ", "ub":2.0},
+ {"codigo":192, "practica":"CREATININA   serica o urinaria  ", "ub":2.0},
+ {"codigo":193, "practica":"CREATININA  CLEARENCE DE DEPURACION", "ub":5.0},
+ {"codigo":194, "practica":"CRIOAGLUTININA", "ub":1.0},
+ {"codigo":195, "practica":"CRIOGLOBULINAS", "ub":1.0},
+ {"codigo":196, "practica":"CROMATINA SEXUAL", "ub":2.0},
+ {"codigo":241, "practica":"CHAGAS  (AD)", "ub":3.0},
+ {"codigo":242, "practica":"CHAGAS  (HAI)", "ub":3.0},
+ {"codigo":243, "practica":"CHAGAS  (IFI / ELISA)", "ub":8.0},
+ {"codigo":244, "practica":"CHAGAS   PARASITEMIA", "ub":3.0},
+ {"codigo":245, "practica":"CHAGAS   SEROLOGIA  CONFIRMATORIO  (HAI y ELISA o HAI e IFI)", "ub":11.0},
+ {"codigo":261, "practica":"DAVIDSON DIFERENCIAL  PRUEBA ", "ub":3.0},
+ {"codigo":262, "practica":"DEHIDROEPIANDROSTERONA  SULFATO   DHEAS", "ub":11.0},
+ {"codigo":266, "practica":"DILUCION  PRUEBA DE LA FUNCION RENAL", "ub":1.0},
+ {"codigo":268, "practica":"DIGOXIN", "ub":10.0},
+ {"codigo":272, "practica":"DOMICILIO EN RADIO URBANO  HASTA DOS (2) Kms", "ub":4.0},
+ {"codigo":293, "practica":"EMBARAZO  REACCION INMUNOLOGICA PARA", "ub":3.5},
+ {"codigo":295, "practica":"EOSINOFILOS  RECUENTO DE", "ub":1.0},
+ {"codigo":296, "practica":"ERITROBLASTOS PORCENTAJE DE", "ub":1.0},
+ {"codigo":297, "practica":"ERITROSEDIMENTACION", "ub":1.0},
+ {"codigo":298, "practica":"ESPERMOGRAMA BASICO", "ub":9.0},
+ {"codigo":300, "practica":"ESTRADIOL  E2", "ub":10.0},
+ {"codigo":301, "practica":"ESTRIOL  urinario", "ub":13.0},
+ {"codigo":302, "practica":"ESTRIOL  serico", "ub":13.0},
+ {"codigo":307, "practica":"ETANOL  TOXICO  sanguineo o urinario ", "ub":10.0},
+ {"codigo":308, "practica":"EUGLOBULINAS  TEST DE", "ub":3.0},
+ {"codigo":309, "practica":"EXUDADO NASOFARINGEO   CULTIVO", "ub":5.0},
+ {"codigo":331, "practica":"FACTOR DE COAGULACION V", "ub":12.0},
+ {"codigo":332, "practica":"FACTOR DE COAGULACION VII", "ub":24.0},
+ {"codigo":333, "practica":"FACTOR DE COAGULACION VIII", "ub":20.0},
+ {"codigo":334, "practica":"FACTOR DE COAGULACION IX", "ub":20.0},
+ {"codigo":335, "practica":"FACTOR DE COAGULACION X", "ub":12.0},
+ {"codigo":337, "practica":"FENILALANINA", "ub":17.0},
+ {"codigo":338, "practica":"FENILALANINA  SCREENING NEONATAL", "ub":7.0},
+ {"codigo":340, "practica":"FENILPIRUVICO ACIDO CUANTITATIVO  urinario ", "ub":6.0},
+ {"codigo":342, "practica":"FENOTIAZINAS", "ub":15.0},
+ {"codigo":343, "practica":"FERREMIA", "ub":2.0},
+ {"codigo":344, "practica":"FIBRINOGENO  PRODUCTOS DE DEGRADACION  PDF", "ub":30.0},
+ {"codigo":345, "practica":"FIBRINOGENO  sangre", "ub":4.0},
+ {"codigo":349, "practica":"FISICO QUIMICO  Ex Liq Exudados  Trasudados", "ub":7.5},
+ {"codigo":350, "practica":"FLUOREMIA", "ub":10.0},
+ {"codigo":351, "practica":"FLUORURIA", "ub":10.0},
+ {"codigo":352, "practica":"FOLICO  ACIDO ", "ub":11.0},
+ {"codigo":353, "practica":"FONDO OSCURO", "ub":4.0},
+ {"codigo":354, "practica":"FORMULA LEUCOCITARIA", "ub":1.5},
+ {"codigo":355, "practica":"FOSFATASA ACIDA PROSTATICA (EFM)", "ub":3.0},
+ {"codigo":356, "practica":"FOSFATASA ACIDA TOTAL  (EFM)", "ub":3.0},
+ {"codigo":357, "practica":"FOSFATASA ALCALINA", "ub":1.5},
+ {"codigo":358, "practica":"FOSFATASA ALCALINA CITOQUIMICA GOMORI ", "ub":5.0},
+ {"codigo":359, "practica":"FOSFATASA ALCALINA CITOQUIMICA KAPLOW ", "ub":5.0},
+ {"codigo":360, "practica":"FOSFATASA ALCALINA TERMOESTABLE ", "ub":15.0},
+ {"codigo":361, "practica":"FOSFATASA ALCALINA  ISOENZIMAS", "ub":15.0},
+ {"codigo":362, "practica":"FOSFATEMIA", "ub":1.5},
+ {"codigo":363, "practica":"FOSFATURIA", "ub":1.5},
+ {"codigo":364, "practica":"FOSFO HEXOSA ISOMERASA", "ub":8.0},
+ {"codigo":365, "practica":"FOSFOLIPIDOS  ", "ub":1.0},
+ {"codigo":366, "practica":"FOSFORO CLEARENCE DEPURACION", "ub":3.0},
+ {"codigo":367, "practica":"FOSFORO REABSORCION TUBULAR ", "ub":2.0},
+ {"codigo":368, "practica":"FRAGMENTO FAB FC ", "ub":5.0},
+ {"codigo":370, "practica":"FSH  HORMONA FOLICULO ESTIMULANTE", "ub":10.0},
+ {"codigo":371, "practica":"FTA/ ABS (IFI \u00e2\u20ac\u201c ELISA recombinante y TPHA)", "ub":8.0},
+ {"codigo":373, "practica":"FUNCIONAL  EXAMEN DE MATERIA FECAL", "ub":7.0},
+ {"codigo":401, "practica":"GALACTOSA   PRUEBA DE LA", "ub":8.0},
+ {"codigo":402, "practica":"GALACTOSEMIA", "ub":8.0},
+ {"codigo":403, "practica":"GALACTOSURIA ", "ub":8.0},
+ {"codigo":405, "practica":"GASTRINA  serica", "ub":15.0},
+ {"codigo":408, "practica":"GLOBULOS BLANCOS   RECUENTO y FORMULA  materia fecal", "ub":3.0},
+ {"codigo":409, "practica":"GLOBULOS BLANCOS   RECUENTO DE", "ub":1.0},
+ {"codigo":410, "practica":"GLOBULOS ROJOS   RECUENTO DE", "ub":1.0},
+ {"codigo":412, "practica":"GLUCEMIA", "ub":1.5},
+ {"codigo":413, "practica":"GLUCEMIA   PRUEBA de SOBRECARGA (x 2  dos determinaciones)", "ub":4.5},
+ {"codigo":415, "practica":"GLUCOGENO  CITOQUIMICO", "ub":4.0},
+ {"codigo":417, "practica":"GLUCOSA 6FOSFATODEHIDROGENASA", "ub":8.0},
+ {"codigo":418, "practica":"GLUCOSA 6FOSFATO", "ub":5.0},
+ {"codigo":419, "practica":"GLUTAMATO DEHIDROGENASA  ", "ub":3.0},
+ {"codigo":420, "practica":"GLUTAMIL TRANSPEPTIDASA", "ub":2.5},
+ {"codigo":428, "practica":"GONOCOCOS  (IFI)", "ub":5.0},
+ {"codigo":430, "practica":"GRAHAM  TEST DE", "ub":3.0},
+ {"codigo":432, "practica":"GRASAS  CUANTITATIVO (Van de Kamer)   materia fecal", "ub":15.0},
+ {"codigo":433, "practica":"GRUPO SANGUINEO y FACTOR  RH ", "ub":4.0},
+ {"codigo":463, "practica":"HAPTOGLOBINA", "ub":5.0},
+ {"codigo":464, "practica":"HEINS  CUERPOS DE ", "ub":1.0},
+ {"codigo":465, "practica":"HEMATIES  RESISTENCIA GLOBULAR OSMOTICA", "ub":4.0},
+ {"codigo":466, "practica":"HEMATOCRITO", "ub":1.0},
+ {"codigo":467, "practica":"HEMOAGLUTINOGENOS A2 (c/u)", "ub":4.0},
+ {"codigo":468, "practica":"HEMOCULTIVO AEROBIOS  (c/u)", "ub":7.5},
+ {"codigo":470, "practica":"HEMOGLOBINA  DOSAJE DE", "ub":1.0},
+ {"codigo":471, "practica":"HEMOGLOBINA  ELECTROFORESIS", "ub":5.0},
+ {"codigo":472, "practica":"HEMOGLOBINA  PLASMATICA", "ub":2.0},
+ {"codigo":474, "practica":"HEMOGLOBINA ALCALIRESISTENTE", "ub":1.0},
+ {"codigo":475, "practica":"HEMOGRAMA", "ub":3.0},
+ {"codigo":476, "practica":"HEMOLISINAS EN CALIENTE  TITULACION  ", "ub":2.0},
+ {"codigo":477, "practica":"HEMOLISINAS EN FRIO   EXCL ANTI DE DONATH  ", "ub":2.0},
+ {"codigo":478, "practica":"HEMOPEXINA   INMUNODIFUSION CUANTITATIVA ", "ub":5.0},
+ {"codigo":480, "practica":"HEPARINA  RESISTENCIA A LA  (In Vitro)", "ub":15.0},
+ {"codigo":481, "practica":"HEPATOGRAMA", "ub":5.0},
+ {"codigo":483, "practica":"HIDATIDOSIS (HAI) ", "ub":4.0},
+ {"codigo":484, "practica":"HIDATIDOSIS (Latex)", "ub":4.0},
+ {"codigo":485, "practica":"HIDRATOS DE CARBONO (Cromatografia)  urinarios", "ub":5.0},
+ {"codigo":486, "practica":"17 HIDROXICORTICOIDES  urinario", "ub":5.0},
+ {"codigo":487, "practica":"HIDROXINDOLACETICO  ACIDO", "ub":10.0},
+ {"codigo":488, "practica":"HIDROXIPROLINURIA", "ub":12.0},
+ {"codigo":492, "practica":"HOMOGENTISICO  ACIDO  urinario", "ub":8.0},
+ {"codigo":493, "practica":"HUBBNER   TEST DE ", "ub":10.0},
+ {"codigo":494, "practica":"HUDDLESSON  REACCION DE (Rosa de Bengala  Brucelosis)", "ub":2.0},
+ {"codigo":531, "practica":"MYCOBACTERIUM  IDENTIFICACION", "ub":10.0},
+ {"codigo":532, "practica":"IDENTIFICACION SEROLOGICA DE GERMENES", "ub":6.0},
+ {"codigo":534, "practica":"INDOXILEMIA ", "ub":4.0},
+ {"codigo":535, "practica":"INMUNOELECTROFORESIS", "ub":10.0},
+ {"codigo":536, "practica":"INMUNOELECTROFORESIS LIQUIDOS BIOLOGICOS", "ub":10.0},
+ {"codigo":537, "practica":"INMUNOGLOBULINA A", "ub":5.0},
+ {"codigo":538, "practica":"INMUNOGLOBULINA D", "ub":15.0},
+ {"codigo":539, "practica":"INMUNOGLOBULINA E", "ub":10.0},
+ {"codigo":540, "practica":"INMUNOGLOBULINA G", "ub":5.0},
+ {"codigo":541, "practica":"INMUNOGLOBULINA M", "ub":5.0},
+ {"codigo":542, "practica":"INULINA  CLEARENCE", "ub":5.0},
+ {"codigo":543, "practica":"INSULINA", "ub":11.0},
+ {"codigo":546, "practica":"IONOGRAMA  serico", "ub":3.5},
+ {"codigo":547, "practica":"IONOGRAMA  urinario", "ub":3.5},
+ {"codigo":548, "practica":"ISOCITRICO DEHIDROGENASA", "ub":4.0},
+ {"codigo":591, "practica":"LACTAMINICO  ACIDO", "ub":5.0},
+ {"codigo":592, "practica":"LACTICO   ACIDO ENZIMATICO", "ub":10.0},
+ {"codigo":593, "practica":"LACTICO  ACIDO  materia fecal", "ub":10.0},
+ {"codigo":594, "practica":"LACTICO DEHIDROGENASA  LDH", "ub":3.0},
+ {"codigo":596, "practica":"LACTICO DEHIDROGENASA ISOENZIMAS  LDH Isoenzimas", "ub":6.0},
+ {"codigo":597, "practica":"LACTOGENO PLACENTARIO / SOMATOMAMOTROFINA", "ub":20.0},
+ {"codigo":598, "practica":"LATEX ARTRITIS REUMATOIDE", "ub":2.0},
+ {"codigo":600, "practica":"LEPTOSPIRAS  INVESTIGACION DE", "ub":10.0},
+ {"codigo":602, "practica":"TRICHINOSIS   INVESTIGACION DE", "ub":30.0},
+ {"codigo":603, "practica":"LAZO   PRUEBA DEL", "ub":1.0},
+ {"codigo":606, "practica":"LEUCINAMINOPEPTIDASA", "ub":4.0},
+ {"codigo":610, "practica":"LEVULINICO  ACIDO DELTAAMINO ", "ub":10.0},
+ {"codigo":611, "practica":"LEVULINICO   DELTA DEHIDRATASA", "ub":10.0},
+ {"codigo":612, "practica":"LH  HORMONA LUTEINIZANTE", "ub":10.0},
+ {"codigo":613, "practica":"LIPASA   serica", "ub":5.0},
+ {"codigo":615, "practica":"LIPIDOGRAMA (Electroforetico)", "ub":4.0},
+ {"codigo":618, "practica":"LIPOPROTEINLIPASA", "ub":3.0},
+ {"codigo":619, "practica":"LIQUIDO CEFALORRAQUIDEO  FcoQco  Citologico", "ub":7.5},
+ {"codigo":620, "practica":"LIQUIDO DE PUNCION  FcoQco   Citologico ", "ub":7.5},
+ {"codigo":622, "practica":"LISTERIAS  (IFI  ELISA)", "ub":9.0},
+ {"codigo":623, "practica":"LITIO", "ub":6.0},
+ {"codigo":652, "practica":"MACROGLOBULINA ALFA 2 (ID  cuantitativa)", "ub":10.0},
+ {"codigo":653, "practica":"MAGNESIO  serico", "ub":2.5},
+ {"codigo":654, "practica":"MAGNESIO  urinario", "ub":2.5},
+ {"codigo":656, "practica":"MANTOUX  INTRADERMOREACCION DE  (PPD)", "ub":6.0},
+ {"codigo":657, "practica":"MEDULOGRAMA", "ub":9.0},
+ {"codigo":658, "practica":"MELANINA   urinaria ", "ub":2.0},
+ {"codigo":660, "practica":"MERCURIO   sanguineo o urinario", "ub":15.0},
+ {"codigo":662, "practica":"METANEFRINAS", "ub":15.0},
+ {"codigo":663, "practica":"METANOL    urinario", "ub":15.0},
+ {"codigo":664, "practica":"MICOLOGIA  DIRECTO  COLORACION", "ub":2.0},
+ {"codigo":665, "practica":"MICOLOGIA  CULTIVO e IDENTIFICACION", "ub":8.0},
+ {"codigo":667, "practica":"MOCO CERVICAL  CRISTALIZACION", "ub":2.0},
+ {"codigo":668, "practica":"MOCO NASAL  PH  CITOLOGICO", "ub":2.0},
+ {"codigo":669, "practica":"MONONUCLEOSIS  AGLUTINACION  TEST de LATEX o MONOTEST", "ub":3.0},
+ {"codigo":670, "practica":"MONONUCLEOSIS HEMOAGLUTINACION (P B)", "ub":3.0},
+ {"codigo":671, "practica":"MONONUCLEOSIS", "ub":3.0},
+ {"codigo":672, "practica":"MONOXIDO de CARBONO", "ub":5.0},
+ {"codigo":673, "practica":"MORFINA OPIACEOS  DERIVADOS en LIQUIDOS BIOLOGICOS", "ub":12.0},
+ {"codigo":674, "practica":"MUCOPOLISACARIDOS  CROMATOGRAFIA", "ub":4.0},
+ {"codigo":675, "practica":"MUCOPROTEINAS", "ub":2.0},
+ {"codigo":702, "practica":"5 NUCLEOTIDASA", "ub":4.0},
+ {"codigo":711, "practica":"ORINA COMPLETA", "ub":2.5},
+ {"codigo":713, "practica":"OROSOMUCOIDE  INMUNODIFUSION CUANTITATIVA ", "ub":3.0},
+ {"codigo":714, "practica":"OSMOLARIDAD  CLEARENCE", "ub":5.0},
+ {"codigo":715, "practica":"OSMOLARIDAD   suero", "ub":2.5},
+ {"codigo":734, "practica":"PAPANICOLAU ENDO y EXOCERVICAL", "ub":8.0},
+ {"codigo":736, "practica":"PARASITOLOGICO SERIADO", "ub":4.0},
+ {"codigo":737, "practica":"PARASITOS HEMATICOS", "ub":3.0},
+ {"codigo":738, "practica":"PARASITOS SUPERIORES", "ub":2.0},
+ {"codigo":739, "practica":"PARATHORMONA  PTH ", "ub":13.5},
+ {"codigo":740, "practica":"PEROXIDASAS  TINCION", "ub":5.0},
+ {"codigo":741, "practica":"PH  liquidos biologicos", "ub":2.0},
+ {"codigo":745, "practica":"PLAQUETARIOS  FACTORES ", "ub":10.0},
+ {"codigo":746, "practica":"PLAQUETAS  RECUENTO DE", "ub":1.0},
+ {"codigo":747, "practica":"PLASMA RECALCIFICADO  TIEMPO DE", "ub":1.0},
+ {"codigo":748, "practica":"PLASMINOGENO (IDR)", "ub":5.0},
+ {"codigo":749, "practica":"PLOMO  sanguineo o urinario", "ub":12.0},
+ {"codigo":751, "practica":"PORFIRINAS   urinario", "ub":6.0},
+ {"codigo":752, "practica":"PORFOBILINOGENO  urinario", "ub":6.0},
+ {"codigo":755, "practica":"PREGNANODIOL", "ub":6.0},
+ {"codigo":756, "practica":"PREGNANTRIOL", "ub":8.0},
+ {"codigo":758, "practica":"PROGESTERONA  Pg", "ub":11.0},
+ {"codigo":759, "practica":"PROLACTINA", "ub":10.0},
+ {"codigo":760, "practica":"PROTEICO   CLEARENCE ", "ub":3.0},
+ {"codigo":761, "practica":"PROTEINA C REACTIVA  CUALITATIVA ", "ub":2.5},
+ {"codigo":763, "practica":"PROTEINA TOTALES", "ub":1.5},
+ {"codigo":764, "practica":"PROTEINOGRAMA (Acetato)", "ub":4.0},
+ {"codigo":766, "practica":"PROTEINOGRAMAS LIQUIDOS BIOLOGICOS", "ub":4.0},
+ {"codigo":767, "practica":"PROTEINURIA", "ub":1.5},
+ {"codigo":768, "practica":"PROTOPORFIRINAS", "ub":6.0},
+ {"codigo":769, "practica":"PROTROMBINA  CONSUMO DE", "ub":2.0},
+ {"codigo":770, "practica":"PROTROMBINA  RIN", "ub":3.0},
+ {"codigo":771, "practica":"PROTROMBINA  TIEMPO DE", "ub":2.0},
+ {"codigo":772, "practica":"PSEUDOCOLINESTERASA", "ub":4.0},
+ {"codigo":812, "practica":"RENINA  ANGIOTESINA", "ub":18.0},
+ {"codigo":814, "practica":"RH FACTOR C GRANDE", "ub":2.0},
+ {"codigo":815, "practica":"RH FACTOR c CHICA", "ub":2.0},
+ {"codigo":816, "practica":"RH FACTOR E GRANDE", "ub":2.0},
+ {"codigo":817, "practica":"RH FACTOR e CHICA", "ub":2.0},
+ {"codigo":818, "practica":"RETICULOCITOS  RECUENTO DE", "ub":1.5},
+ {"codigo":820, "practica":"ROSSE RAGAN  PRUEBA DE", "ub":2.5},
+ {"codigo":831, "practica":"SALICILATOS", "ub":12.5},
+ {"codigo":832, "practica":"SALMONELLA  ANTICUERPOS (IFI  ELISA)", "ub":6.0},
+ {"codigo":833, "practica":"SANGRE OCULTA  materia fecal ", "ub":4.0},
+ {"codigo":835, "practica":"SEROTONINA  serica", "ub":17.5},
+ {"codigo":837, "practica":"SIDEROFILINA  CAPACIDAD", "ub":5.0},
+ {"codigo":838, "practica":"SIMS  HUBBNER  TEST DE", "ub":10.0},
+ {"codigo":841, "practica":"SOMATOTROFINA", "ub":12.0},
+ {"codigo":845, "practica":"SORBITOL DEHIDROGENSA", "ub":3.0},
+ {"codigo":846, "practica":"SUBTIPO HEMOGLOBINA A2  DETERMINACION DE", "ub":5.0},
+ {"codigo":847, "practica":"SUDOR  TEST DE", "ub":15.0},
+ {"codigo":862, "practica":"TALIO   urinario", "ub":12.0},
+ {"codigo":863, "practica":"TESTOSTERONA  To", "ub":11.0},
+ {"codigo":865, "practica":"TSH  TIROTROFINA", "ub":9.0},
+ {"codigo":866, "practica":"T4   TIROXINA TOTAL", "ub":9.0},
+ {"codigo":867, "practica":"T4  LIBRE   TIROXINA EFECTIVA", "ub":9.0},
+ {"codigo":868, "practica":"TOLBUTAMIDA  PRUEBA DE", "ub":4.0},
+ {"codigo":869, "practica":"TOXOPLASMOSIS (FC)", "ub":4.0},
+ {"codigo":870, "practica":"TOXOPLASMOSIS (HA)", "ub":4.0},
+ {"codigo":871, "practica":"TOXOPLASMOSIS (IFI)  ", "ub":6.0},
+ {"codigo":872, "practica":"TOXOPLASMOSIS (Reacccion de Sabin Feldman) ", "ub":6.0},
+ {"codigo":873, "practica":"TRANSAMINASA  GLUTAMICO OXALACETICA", "ub":1.5},
+ {"codigo":874, "practica":"TRANSAMINASA  GLUTAMICO PIRUVICA", "ub":1.5},
+ {"codigo":875, "practica":"TRANSFERRINA (IDR)", "ub":5.0},
+ {"codigo":876, "practica":"TRIGLICERIDOS", "ub":2.5},
+ {"codigo":877, "practica":"T3 TRIIODOTIRONINA UPTAKE", "ub":9.0},
+ {"codigo":878, "practica":"TRIIODOTIRONINA TOTAL   T3", "ub":9.0},
+ {"codigo":879, "practica":"TROMBINA  PRUEBA DE GENERACION DE LA", "ub":3.0},
+ {"codigo":880, "practica":"TROMBINA  TIEMPO DE", "ub":3.0},
+ {"codigo":887, "practica":"TROMBOPLASTINA  TIEMPO DE (KPTT  TTPC)", "ub":2.0},
+ {"codigo":901, "practica":"UREA  CLEARENCE", "ub":3.0},
+ {"codigo":902, "practica":"UREMIA", "ub":1.5},
+ {"codigo":903, "practica":"URETRAL  EXUDADO  DIRECTO y CULTIVO", "ub":7.0},
+ {"codigo":904, "practica":"URICEMIA", "ub":1.5},
+ {"codigo":905, "practica":"URICO   ACIDO  urinario  (URICOSURIA)", "ub":1.5},
+ {"codigo":907, "practica":"UROCITOGRAMA  UNA (1) MUESTRA", "ub":3.0},
+ {"codigo":911, "practica":"UROCULTIVO", "ub":11.0},
+ {"codigo":931, "practica":"VAGINAL  EXUDADO o FLUJO  DIRECTO y CULTIVO", "ub":8.0},
+ {"codigo":932, "practica":"VAINILLIN MANDELICO  ACIDO  urinario", "ub":8.5},
+ {"codigo":933, "practica":"V D R L CUALITATIVA", "ub":2.0},
+ {"codigo":934, "practica":"V D R L CUANTITATIVA \u00e2\u20ac\u201c USR  CUANTITATIVA", "ub":2.0},
+ {"codigo":937, "practica":"VITAMINA A", "ub":23.0},
+ {"codigo":938, "practica":"VITAMINA B12", "ub":15.0},
+ {"codigo":939, "practica":"VITAMINA E", "ub":23.0},
+ {"codigo":953, "practica":"WIDAL  REACCION DE", "ub":4.0},
+ {"codigo":971, "practica":"XILOSA D  PRUEBA DE LA", "ub":6.0},
+ {"codigo":981, "practica":"ZINC ERITROCITARIO  PROTOPORFIRINA", "ub":12.0},
+ {"codigo":982, "practica":"ZINC  serico", "ub":12.0},
+ {"codigo":1000, "practica":"ANTIGENO PROSTATICO ESPECIFICO TOTAL    PSAt", "ub":18.0},
+ {"codigo":1015, "practica":"CD4  CD8  Sub Poblacion linfocitaria por Citom de flujo (c/u)", "ub":23.0},
+ {"codigo":1020, "practica":"CHLAMYDIAS PNEUMONIAE  Ac Anti IgG", "ub":18.0},
+ {"codigo":1025, "practica":"CITOMEGALOVIRUS  Ac IgG Anti ", "ub":15.0},
+ {"codigo":1030, "practica":"CITOMEGALOVIRUS  Ac IgM Anti ", "ub":20.0},
+ {"codigo":1035, "practica":"COLESTEROL HDL", "ub":3.0},
+ {"codigo":1040, "practica":"COLESTEROL LDL ", "ub":4.0},
+ {"codigo":1045, "practica":"CPK MB", "ub":10.0},
+ {"codigo":1050, "practica":"DROGAS de ABUSO SCREENING  (c/u)", "ub":17.5},
+ {"codigo":1055, "practica":"EPSTEIN BARR  Ac IgG/Totales Anti (VCA IgG) ", "ub":15.0},
+ {"codigo":1060, "practica":"EPSTEIN BARR  Ac IgM Anti (VCA IgM)", "ub":20.0},
+ {"codigo":1065, "practica":"FRUCTOSAMINA", "ub":15.0},
+ {"codigo":1070, "practica":"HEMOGLOBINA GLICOSILADA", "ub":15.0},
+ {"codigo":1075, "practica":"HEPATITIS A  Ac IgM Anti  (HAV IgM)", "ub":15.0},
+ {"codigo":1080, "practica":"HEPATITIS B  Ac IgG Anti  (HBc IgG )", "ub":15.0},
+ {"codigo":1085, "practica":"HEPATITIS B  Antigeno e (AgHBe) ", "ub":15.0},
+ {"codigo":1086, "practica":"HEPATITIS B  Antigeno de Superficie  (AgHBs )", "ub":12.0},
+ {"codigo":1090, "practica":"HEPATITIS B  Ac Anti (HBsAc)", "ub":20.0},
+ {"codigo":1095, "practica":"HEPATITIS C  Ac IgG Anti  (HCV Ac IgG)", "ub":20.0},
+ {"codigo":1105, "practica":"HIV  CARGA VIRAL", "ub":160.0},
+ {"codigo":1110, "practica":"HIV  WESTERN BLOT", "ub":100.0},
+ {"codigo":1115, "practica":"MARCADOR CA 125 (OVARIO)", "ub":20.0},
+ {"codigo":1120, "practica":"MARCADOR CA 15 3 (MAMA)", "ub":20.0},
+ {"codigo":1125, "practica":"MARCADOR CA 19 9 (COLON)", "ub":20.0},
+ {"codigo":1130, "practica":"MICROALBUMINURIA", "ub":12.5},
+ {"codigo":1135, "practica":"MONITOREO de FARMACOS para ENF CRONICAS (Anticonvulsivantes)", "ub":15.0},
+ {"codigo":1136, "practica":"MONITOREO de FARMACOS para ENF CRONICAS  (Cafeina o Lamotrigina)", "ub":24.0},
+ {"codigo":1140, "practica":"MYCOPLASMA PNEUMONIAE Ac AntiIgG", "ub":18.0},
+ {"codigo":1142, "practica":"PREPARACION DE SANGRE A TRANSFUNDIR (MODULO TRANSFUSIONAL)", "ub":115.0},
+ {"codigo":1145, "practica":"RUBEOLA  Ac IgG Anti ", "ub":15.0},
+ {"codigo":1150, "practica":"RUBEOLA  Ac IgM Anti ", "ub":15.0},
+ {"codigo":1160, "practica":"TORCH  (Toxoplasmosis   Rubeola  Citomegalovirus y Herpes 1 y 2 )", "ub":50.0},
+ {"codigo":1175, "practica":"SUBUNIDADBETA de GONADOTROFINA CORIONICA CUANTITATIVA ", "ub":12.5},
+ {"codigo":1180, "practica":"TEST RAPIDO de FAUCES para STREPTOCOCCUS BetaHEMOLITICO Grupo \"A\"\"\"", "ub":12.5},
+ {"codigo":1185, "practica":"TESTOSTERONA BIODISPONIBLE", "ub":25.0},
+ {"codigo":1190, "practica":"TIROTROFINA ULTRASENSIBLE", "ub":9.0},
+ {"codigo":1195, "practica":"SCREENING NEONATAL (TSH  FENIL ALANINA y TIR  Neonatales)", "ub":20.0},
+ {"codigo":1196, "practica":"SCREENING NEONATAL (TSH  FENIL ALANINA y TIR BIOTINIDASA  GALACTOSEMIA y 17HOPROGESTERONA  Neonatales)", "ub":43.0},
+ {"codigo":1200, "practica":"URGENCIAS", "ub":3.0},
+ {
+    "codigo": 2001,
+    "practica": "ABC - ACTO BIOQUIMICO COMPLEMENTARIO",
+    "ub": 3
+},
+{
+    "codigo": 2008,
+    "practica": "ACANTHAMOEBA SPP.",
+    "ub": 15
+},
+{
+    "codigo": 2009,
+    "practica": "ACANTHAMOEBA - PCR",
+    "ub": 90
+},
+{
+    "codigo": 2011,
+    "practica": "ACAROS y ARTROPODOS, Investigación de vectores",
+    "ub": 10
+},
+{
+    "codigo": 2017,
+    "practica": "ACETILCOLINA",
+    "ub": 25
+},
+{
+    "codigo": 2025,
+    "practica": "ACETILCOLINA, Ac. Anti- RECEPTORES (ACRA)",
+    "ub": 100
+},
+{
+    "codigo": 2034,
+    "practica": "ACETILCOLINESTERASA ERITROCITARIA (ACHE)",
+    "ub": 12
+},
+{
+    "codigo": 2051,
+    "practica": "ACETONA CUANTITATIVA - serica",
+    "ub": 19
+},
+{
+    "codigo": 2059,
+    "practica": "ACETONA CUANTITATIVA - urinaria",
+    "ub": 19
+},
+{
+    "codigo": 2068,
+    "practica": "ACIDO 3 METIL-INDOL",
+    "ub": 35
+},
+{
+    "codigo": 2085,
+    "practica": "ACIDO 5 HIDROX-INDOL ACETICO (HPLC)",
+    "ub": 23
+},
+{
+    "codigo": 2093,
+    "practica": "ACIDO ACETOACETICO",
+    "ub": 17
+},
+{
+    "codigo": 2102,
+    "practica": "ACIDO ALFA CETONICO",
+    "ub": 12
+},
+{
+    "codigo": 2111,
+    "practica": "ACIDO BETA HIDROXIBUTIRICO",
+    "ub": 19
+},
+{
+    "codigo": 2119,
+    "practica": "ACIDO CITRICO - plasmatico",
+    "ub": 15
+},
+{
+    "codigo": 2120,
+    "practica": "ACIDO CITRICO - urinario",
+    "ub": 15
+},
+{
+    "codigo": 2128,
+    "practica": "ACIDO FENIL ACETICO (AFA)",
+    "ub": 19
+},
+{
+    "codigo": 2136,
+    "practica": "ACIDO FENIL GLIOXILICO",
+    "ub": 16
+},
+{
+    "codigo": 2153,
+    "practica": "ACIDO FOLICO - intraeritrocitario.",
+    "ub": 14
+},
+{
+    "codigo": 2162,
+    "practica": "ACIDO FORMICO",
+    "ub": 16
+},
+{
+    "codigo": 2170,
+    "practica": "ACIDO FOSFATIDICO, Ac. IgG Anti-",
+    "ub": 30
+},
+{
+    "codigo": 2179,
+    "practica": "ACIDO FOSFATIDICO, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 2181,
+    "practica": "ACIDO FUROICO",
+    "ub": 16
+},
+{
+    "codigo": 2182,
+    "practica": "ACIDO GAMMA-AMINOBUTIRICO (GABA)",
+    "ub": 70
+},
+{
+    "codigo": 2183,
+    "practica": "ACIDO GLUTAMICO",
+    "ub": 30
+},
+{
+    "codigo": 2184,
+    "practica": "ACIDO GUANIDINACETICO.",
+    "ub": 110
+},
+{
+    "codigo": 2187,
+    "practica": "ACIDO HIPURICO - urinario",
+    "ub": 15
+},
+{
+    "codigo": 2205,
+    "practica": "ACIDO HOMOVANILICO - HVA",
+    "ub": 20
+},
+{
+    "codigo": 2222,
+    "practica": "ACIDO INDOLACETICO, 5 HIDROXI -3-METIL",
+    "ub": 19
+},
+{
+    "codigo": 2236,
+    "practica": "ACIDO LACTICO - LCR",
+    "ub": 19
+},
+{
+    "codigo": 2239,
+    "practica": "ACIDO LACTICO - urinario",
+    "ub": 19
+},
+{
+    "codigo": 2247,
+    "practica": "ACIDO LISERGICO (LSD)",
+    "ub": 19
+},
+{
+    "codigo": 2252,
+    "practica": "ACIDO MALICO",
+    "ub": 60
+},
+{
+    "codigo": 2256,
+    "practica": "ACIDO MANDELICO",
+    "ub": 19
+},
+{
+    "codigo": 2264,
+    "practica": "ACIDO METIL HIPURICO",
+    "ub": 19
+},
+{
+    "codigo": 2273,
+    "practica": "ACIDO METIL MALONICO",
+    "ub": 19
+},
+{
+    "codigo": 2277,
+    "practica": "ACIDO MUCONICO",
+    "ub": 19
+},
+{
+    "codigo": 2281,
+    "practica": "ACIDO OROTICO",
+    "ub": 104
+},
+{
+    "codigo": 2296,
+    "practica": "ACIDO OXALICO - serico",
+    "ub": 22
+},
+{
+    "codigo": 2299,
+    "practica": "ACIDO OXALICO - urinario (2/ 12 / 24 hs. - c/u)",
+    "ub": 15
+},
+{
+    "codigo": 2307,
+    "practica": "ACIDO PERCLORICO",
+    "ub": "-"
+},
+{
+    "codigo": 2316,
+    "practica": "ACIDO PIRUVICO - serico",
+    "ub": 13
+},
+{
+    "codigo": 2328,
+    "practica": "ACIDO SALICILICO - serico",
+    "ub": 12
+},
+{
+    "codigo": 2330,
+    "practica": "ACIDO SALICILICO - urinario",
+    "ub": 12
+},
+{
+    "codigo": 2341,
+    "practica": "ACIDO SIALICO",
+    "ub": 19
+},
+{
+    "codigo": 2346,
+    "practica": "ACIDO SUCCINICO",
+    "ub": 60
+},
+{
+    "codigo": 2350,
+    "practica": "ACIDO TIOGLICOLICO",
+    "ub": 19
+},
+{
+    "codigo": 2358,
+    "practica": "ACIDO TRICLOROACETICO",
+    "ub": 18
+},
+{
+    "codigo": 2367,
+    "practica": "ACIDOS BILIARES - sericos.",
+    "ub": 30
+},
+{
+    "codigo": 2375,
+    "practica": "ACIDOS GRASOS DE CADENA MUY LARGA",
+    "ub": 122
+},
+{
+    "codigo": 2379,
+    "practica": "ACIDOS GRASOS NO ESTERIFICADOS (NEFA)",
+    "ub": 10
+},
+{
+    "codigo": 2393,
+    "practica": "ACIDOS ORGANICOS - urinarios",
+    "ub": 122
+},
+{
+    "codigo": 2401,
+    "practica": "ACIL CARNITINAS - plasmaticos",
+    "ub": 120
+},
+{
+    "codigo": 2405,
+    "practica": "ACTINA AC (AAC) - IFI",
+    "ub": "-"
+},
+{
+    "codigo": 2410,
+    "practica": "ACUAPORINA 4 - Neuromielitis Optica–Ac. IgG (NMO- Ac. IgG)",
+    "ub": 100
+},
+{
+    "codigo": 2417,
+    "practica": "ADENOSIN DEAMINASA - LCR",
+    "ub": 24
+},
+{
+    "codigo": 2418,
+    "practica": "ADENOSIN DEAMINASA - liquido pleural",
+    "ub": 24
+},
+{
+    "codigo": 2427,
+    "practica": "ADENOVIRUS, Ac. IgG o Totales, Anti-",
+    "ub": 18
+},
+{
+    "codigo": 2435,
+    "practica": "ADENOVIRUS, Ac. IgM, Anti-",
+    "ub": 18
+},
+{
+    "codigo": 2444,
+    "practica": "ADENOVIRUS, Ag.",
+    "ub": 24
+},
+{
+    "codigo": 2446,
+    "practica": "ADENOVIRUS - PCR",
+    "ub": 90
+},
+{
+    "codigo": 2448,
+    "practica": "ADENOVIRUS - Carga viral",
+    "ub": 150
+},
+{
+    "codigo": 2452,
+    "practica": "ADRENAL, Ac. Totales Anti-",
+    "ub": 65
+},
+{
+    "codigo": 2461,
+    "practica": "ALDOSTERONA - urinaria",
+    "ub": 15
+},
+{
+    "codigo": 2469,
+    "practica": "ALDRIN",
+    "ub": 60
+},
+{
+    "codigo": 2495,
+    "practica": "Alfa 1 ANTITRIPSINA, CLEARENCE de (α1 AT - Clearence)\n- M.F. / serica.",
+    "ub": 20
+},
+{
+    "codigo": 2508,
+    "practica": "Alfa 1 GLUCOPROTEINA ACIDA (OROSOMUCOIDE)",
+    "ub": "-"
+},
+{
+    "codigo": 2521,
+    "practica": "Alfa 2 ANTIPLASMINA",
+    "ub": 40
+},
+{
+    "codigo": 2538,
+    "practica": "Alfa-BHC (α-HCH) - alfa-HEXACLORURO de BENCENO - alfa-HEXACLORAN - alfa-LINDANO - α-1,2,3,4,5,6- HEXACLOROCICLOHEXANO.",
+    "ub": 60
+},
+{
+    "codigo": 2547,
+    "practica": "Alfa GALACTOSIDASA (Fabry)",
+    "ub": 130
+},
+{
+    "codigo": 2555,
+    "practica": "Alfa GLUCOSIDASA NEUTRA - semen",
+    "ub": 25
+},
+{
+    "codigo": 2559,
+    "practica": "Alfa L IDURONIDASA",
+    "ub": 110
+},
+{
+    "codigo": 2561,
+    "practica": "Alfa MANOSIDASA",
+    "ub": "-"
+},
+{
+    "codigo": 2563,
+    "practica": "Alfa NITROSO BETA NAFTOL, PRUEBA de",
+    "ub": 9
+},
+{
+    "codigo": 2572,
+    "practica": "ALPRAZOLAM",
+    "ub": 25
+},
+{
+    "codigo": 2587,
+    "practica": "ALUMINIO - pelo",
+    "ub": 30
+},
+{
+    "codigo": 2589,
+    "practica": "ALUMINIO - serico",
+    "ub": 22
+},
+{
+    "codigo": 2591,
+    "practica": "ALUMINIO - urinario",
+    "ub": 22
+},
+{
+    "codigo": 2598,
+    "practica": "AMETRYN",
+    "ub": 60
+},
+{
+    "codigo": 2606,
+    "practica": "AMIKACINA",
+    "ub": 22
+},
+{
+    "codigo": 2620,
+    "practica": "AMINOACIDOS - LCR (Cromatografia cuantitativa)",
+    "ub": 150
+},
+{
+    "codigo": 2623,
+    "practica": "AMINOACIDOS - serico (Cromatografia cuantitativa)",
+    "ub": 150
+},
+{
+    "codigo": 2624,
+    "practica": "AMINOACIDOS - sangre seca en papel de filtro - SSPF (cuantitativo)",
+    "ub": 150
+},
+{
+    "codigo": 2627,
+    "practica": "AMINOACIDOS - urinarios (Cromatografia cuantitativa)",
+    "ub": 150
+},
+{
+    "codigo": 2630,
+    "practica": "AMINOACIDOS - urinarios (Cualitativo)",
+    "ub": 22
+},
+{
+    "codigo": 2649,
+    "practica": "AMONIO - urinario",
+    "ub": 20
+},
+{
+    "codigo": 2657,
+    "practica": "ANAEROBIOS (Cultivo).",
+    "ub": 30
+},
+{
+    "codigo": 2666,
+    "practica": "ANDROSTENEDIOL GLUCURONIDO (ALFA DIOL GLUCURONIDO)",
+    "ub": 25
+},
+{
+    "codigo": 2675,
+    "practica": "ANDROSTENEDIONA, Delta 4- (∆4)",
+    "ub": 12
+},
+{
+    "codigo": 2688,
+    "practica": "ANFETAMINAS / METANFETAMINAS, confirmatorio",
+    "ub": 120
+},
+{
+    "codigo": 2700,
+    "practica": "ANGELMAN, SINDROME de",
+    "ub": 330
+},
+{
+    "codigo": 2704,
+    "practica": "ANION GAP",
+    "ub": 1
+},
+{
+    "codigo": 2706,
+    "practica": "ANTIBIOGRAMA - AUTOMATIZADO",
+    "ub": 50
+},
+{
+    "codigo": 2709,
+    "practica": "ANTICOAGULANTE LUPICO",
+    "ub": 30
+},
+{
+    "codigo": 2712,
+    "practica": "ANTIDIURETICA, HORMONA (HAD) -VASOPRESINA",
+    "ub": 80
+},
+{
+    "codigo": 2713,
+    "practica": "ANTIDIURETICA, HORMONA - urinaria (HAD u) -\nVASOPRESINA urinaria",
+    "ub": 80
+},
+{
+    "codigo": 2717,
+    "practica": "ANTIGENOS BACTERIANOS, screening (Haemof..infl, Neis. mening., Strept. Pneum.)",
+    "ub": 80
+},
+{
+    "codigo": 2730,
+    "practica": "ANTIGENO PROSTATICO ESPECIFICO, COMPLEJADO (PSA c)",
+    "ub": 25
+},
+{
+    "codigo": 2734,
+    "practica": "ANTIGENO PROSTATICO ESPECIFICO, Libre+Total (PSA- L+T)",
+    "ub": 36
+},
+{
+    "codigo": 2739,
+    "practica": "ANTIGENOS - PANEL GINECOLOGICO - PCR (Chamydia\ntrachomatis / Mycoplasma  hominis / Mycoplasma genitalium / Ureaplasma urealyticum / Neisseria gonorrhoeae)",
+    "ub": 150
+},
+{
+    "codigo": 2743,
+    "practica": "ANTIGENOS VIRALES - PANEL de DIARREICOS - PCR",
+    "ub": 150
+},
+{
+    "codigo": 2745,
+    "practica": "ANTIGENOS VIRALES - PANEL de RESPIRATORIOS - BASICO",
+    "ub": 90
+},
+{
+    "codigo": 2749,
+    "practica": "ANTIGENOS VIRALES - PANEL de RESPIRATORIOS  - PCR BASICO",
+    "ub": 180
+},
+{
+    "codigo": 2751,
+    "practica": "ANTIGENOS VIRALES - PANEL de RESPIRATORIOS  - PCR EXTENDIDO",
+    "ub": 230
+},
+{
+    "codigo": 2769,
+    "practica": "ANTIMICOGRAMA LEVADURAS, Screening",
+    "ub": 30
+},
+{
+    "codigo": 2780,
+    "practica": "ANTIMONIO - serico",
+    "ub": 18
+},
+{
+    "codigo": 2782,
+    "practica": "ANTIMONIO - urinario",
+    "ub": 18
+},
+{
+    "codigo": 2790,
+    "practica": "ANTIMULLERIANA, HORMONA (HAM)",
+    "ub": 75
+},
+{
+    "codigo": 2803,
+    "practica": "ANTITROMBINA III FUNCIONAL",
+    "ub": 25
+},
+{
+    "codigo": 2810,
+    "practica": "APOLIPOPROTEINA A (ApoA)",
+    "ub": 11
+},
+{
+    "codigo": 2811,
+    "practica": "APOLIPOPROTEINA B (ApoB)",
+    "ub": 11
+},
+{
+    "codigo": 2815,
+    "practica": "APOLIPOPROTEINA E, GENOTIPO (Apo E)",
+    "ub": 176
+},
+{
+    "codigo": 2820,
+    "practica": "ARILSULTASA A - en leucocitos",
+    "ub": 150
+},
+{
+    "codigo": 2822,
+    "practica": "ARILSULTASA A - serica",
+    "ub": 150
+},
+{
+    "codigo": 2834,
+    "practica": "ARSENICO - pelo",
+    "ub": 30
+},
+{
+    "codigo": 2837,
+    "practica": "ARSENICO - uña",
+    "ub": 30
+},
+{
+    "codigo": 2846,
+    "practica": "ASPERGILLIUS, Ac. Anti-",
+    "ub": 24
+},
+{
+    "codigo": 2850,
+    "practica": "ATRAZINA",
+    "ub": 60
+},
+{
+    "codigo": 2852,
+    "practica": "AUTOHEMOLISIS, PRUEBA DE",
+    "ub": 4
+},
+{
+    "codigo": 2854,
+    "practica": "BACILUS ANTHRACIS, Cultivo y Tipificación",
+    "ub": 20
+},
+{
+    "codigo": 2858,
+    "practica": "BACTERIAS RESISTENTES A CARBAPENEMES - PCR o\nsimilar",
+    "ub": 95
+},
+{
+    "codigo": 2863,
+    "practica": "BANDAS OLIGOCLONALES, en L.C.R. / Suero",
+    "ub": 220
+},
+{
+    "codigo": 2888,
+    "practica": "BARBITURATOS, Confirmatorio.",
+    "ub": 120
+},
+{
+    "codigo": 2896,
+    "practica": "BARIO - serico.",
+    "ub": 22
+},
+{
+    "codigo": 2897,
+    "practica": "BARIO - urinario",
+    "ub": 22
+},
+{
+    "codigo": 2912,
+    "practica": "BARTONELLA HENSELAE, Ac. IgG Anti-",
+    "ub": 50
+},
+{
+    "codigo": 2914,
+    "practica": "BARTONELLA HENSELAE, Ac. IgM Anti-",
+    "ub": 50
+},
+{
+    "codigo": 2931,
+    "practica": "BENCENO-ETILBENCENO-TOLUENO-XILENO (BETX)",
+    "ub": 60
+},
+{
+    "codigo": 2945,
+    "practica": "BENZODIAZEPINAS, Confirmatorio.",
+    "ub": 120
+},
+{
+    "codigo": 2963,
+    "practica": "BERILIO - serico",
+    "ub": 22
+},
+{
+    "codigo": 2965,
+    "practica": "BERILIO - urinario",
+    "ub": 22
+},
+{
+    "codigo": 2980,
+    "practica": "Beta 2 GLICOPROTEINA, Ac. IgA Anti-",
+    "ub": 30
+},
+{
+    "codigo": 2982,
+    "practica": "Beta 2 GLICOPROTEINA, Ac. IgG Anti-",
+    "ub": 30
+},
+{
+    "codigo": 2984,
+    "practica": "Beta 2 GLICOPROTEINA, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 3016,
+    "practica": "Beta-BHC (β-HCH) - beta-HEXACLORURO de BENCENO - beta-HEXACLORAN - beta-LINDANO - beta-1,2,3,4,5,6- HEXACLOROCICLOHEXANO.",
+    "ub": 60
+},
+{
+    "codigo": 3025,
+    "practica": "Beta CROSS LAPS - CTX-C - TELOPEPTIDO DE COLAGENO TIPO I",
+    "ub": 32
+},
+{
+    "codigo": 3034,
+    "practica": "Beta GALACTOSIDASA",
+    "ub": 130
+},
+{
+    "codigo": 3042,
+    "practica": "Beta GLUCOCEREBROSIDASA",
+    "ub": 130
+},
+{
+    "codigo": 3051,
+    "practica": "Beta LACTAMASA",
+    "ub": 10
+},
+{
+    "codigo": 3056,
+    "practica": "Beta Libre hCG",
+    "ub": 38
+},
+{
+    "codigo": 3062,
+    "practica": "Beta MANOSIDASA",
+    "ub": "-"
+},
+{
+    "codigo": 3065,
+    "practica": "BICARBONATO, en orina",
+    "ub": 10
+},
+{
+    "codigo": 3067,
+    "practica": "BIOTINA",
+    "ub": 120
+},
+{
+    "codigo": 3068,
+    "practica": "BIOTINIDAZA, CONFIRMATORIO.",
+    "ub": 120
+},
+{
+    "codigo": 3076,
+    "practica": "BLADER TEST ANTIGENO - NMP22 (B.T.A.)",
+    "ub": "-"
+},
+{
+    "codigo": 3085,
+    "practica": "BLASTOMYCES DERMATITIDIS, Ac (Fase Lev)",
+    "ub": 35
+},
+{
+    "codigo": 3093,
+    "practica": "BNP (FACTOR NATRIURETICO)",
+    "ub": 95
+},
+{
+    "codigo": 3102,
+    "practica": "BORDETELLA PERTUSIS, Ac. IgG Anti-",
+    "ub": 35
+},
+{
+    "codigo": 3110,
+    "practica": "BORDETELLA PERTUSIS, Ac. IgM Anti-",
+    "ub": 37
+},
+{
+    "codigo": 3119,
+    "practica": "BORDETELLA PERTUSIS, Ag.",
+    "ub": 40
+},
+{
+    "codigo": 3120,
+    "practica": "BORDETELLA PERTUSIS -  PCR",
+    "ub": 90
+},
+{
+    "codigo": 3128,
+    "practica": "BORRELLIA BUGDORFERI, Ac. IgG Anti-",
+    "ub": 35
+},
+{
+    "codigo": 3136,
+    "practica": "BORRELLIA BUGDORFERI, Ac. IgM Anti-",
+    "ub": 37
+},
+{
+    "codigo": 3141,
+    "practica": "BRCA 1 BRCA 2, GRANDES DELECCIONES Y DUPLICACIONES (MLPA)",
+    "ub": 1000
+},
+{
+    "codigo": 3143,
+    "practica": "BRCA 1 BRCA 2, SECUENCIACION COMPLETA",
+    "ub": 2000
+},
+{
+    "codigo": 3145,
+    "practica": "BRCA 1-2, PANEL ASHKENAZI",
+    "ub": 375
+},
+{
+    "codigo": 3147,
+    "practica": "BRCA 1-2, PANEL ASHKENAZI - SEFARADI",
+    "ub": 450
+},
+{
+    "codigo": 3153,
+    "practica": "BROMURO - serico",
+    "ub": 20
+},
+{
+    "codigo": 3158,
+    "practica": "BRUCELLAS, TEST DE WRIGHT",
+    "ub": 10
+},
+{
+    "codigo": 3159,
+    "practica": "BRUCELLAS, TEST DE WRIGHT, con 2-Mercaptoetanol (W-2ME)",
+    "ub": 12
+},
+{
+    "codigo": 3162,
+    "practica": "BRUCELOSIS (IFI)",
+    "ub": 12
+},
+{
+    "codigo": 3170,
+    "practica": "BRUCELOSIS (Fijación de Complemento)",
+    "ub": 5
+},
+{
+    "codigo": 3179,
+    "practica": "BRUCELOSIS, Ac. IgG ó Totales Anti-",
+    "ub": 12
+},
+{
+    "codigo": 3187,
+    "practica": "BRUCELOSIS, Ac. IgM Anti-",
+    "ub": 12
+},
+{
+    "codigo": 3190,
+    "practica": "BRUCELOSIS, Ac. Incompletos Anti-",
+    "ub": 15
+},
+{
+    "codigo": 3230,
+    "practica": "C1 INHIBIDOR (C1 INHIBIDOR INMUNOLOGICO)",
+    "ub": 30
+},
+{
+    "codigo": 3239,
+    "practica": "CA 21-1 (MARCADOR TUMORAL de PULMON) - CYFRA 21-1",
+    "ub": 60
+},
+{
+    "codigo": 3247,
+    "practica": "CA 72-4 (MARCADOR TUMORAL GASTRICO)",
+    "ub": 50
+},
+{
+    "codigo": 3254,
+    "practica": "CADENA LIVIANA KAPPA, LIBRE (Nefelometria)",
+    "ub": 100
+},
+{
+    "codigo": 3257,
+    "practica": "CADENA LIVIANA LAMBDA, LIBRE (Nefelometria)",
+    "ub": 100
+},
+{
+    "codigo": 3259,
+    "practica": "CADENAS PESADAS EN SANGRE Y ORINA C/U",
+    "ub": 40
+},
+{
+    "codigo": 3262,
+    "practica": "CADMIO (Cd) - pelo",
+    "ub": 25
+},
+{
+    "codigo": 3264,
+    "practica": "CADMIO (Cd) - sanguineo",
+    "ub": 22
+},
+{
+    "codigo": 3273,
+    "practica": "CALCIDIOIDEMICOSIS - Inmunodif.",
+    "ub": "-"
+},
+{
+    "codigo": 3290,
+    "practica": "CALCIO (Ca) - pelo",
+    "ub": 25
+},
+{
+    "codigo": 3292,
+    "practica": "CALCIO (Ca) - saliva",
+    "ub": 25
+},
+{
+    "codigo": 3307,
+    "practica": "CALCULO - biliar, salival, urinario - Estudio Cristalografico (C/U)",
+    "ub": 20
+},
+{
+    "codigo": 3310,
+    "practica": "CALPROTECTINA (CPMF)",
+    "ub": 100
+},
+{
+    "codigo": 3316,
+    "practica": "CAMPYLOBACTER SPP, Cultivo",
+    "ub": "-"
+},
+{
+    "codigo": 3318,
+    "practica": "CAMPYLOBACTER SPP, Directo (ELISA)",
+    "ub": 20
+},
+{
+    "codigo": 3320,
+    "practica": "CAMPYLOBACTER SPP, Directo (Microscopia)",
+    "ub": 12
+},
+{
+    "codigo": 3324,
+    "practica": "CANDIDA ALBICANS, Ac. Totales",
+    "ub": 15
+},
+{
+    "codigo": 3333,
+    "practica": "CANDIDA, ELECTROFORESIS DE CAMP",
+    "ub": "-"
+},
+{
+    "codigo": 3350,
+    "practica": "CANNABINOIDES, CONFIRMATORIO (MARIHUANA - CONFIRMATORIO - GC-MS)",
+    "ub": 120
+},
+{
+    "codigo": 3375,
+    "practica": "CARBOXIHEMOGLOBINA",
+    "ub": 15
+},
+{
+    "codigo": 3384,
+    "practica": "CARDIOLIPINAS, Ac. IgA Anti-",
+    "ub": 20
+},
+{
+    "codigo": 3392,
+    "practica": "CARDIOLIPINAS, Ac. IgG Anti-",
+    "ub": 18
+},
+{
+    "codigo": 3401,
+    "practica": "CARDIOLIPINAS, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 3427,
+    "practica": "CARIOTIPO con BANDEO - Alta Resolución (Alta Sensibilidad)",
+    "ub": 230
+},
+{
+    "codigo": 3430,
+    "practica": "CARIOTIPO, con BANDEO",
+    "ub": 140
+},
+{
+    "codigo": 3435,
+    "practica": "CARIOTIPO - liquido anmiótico",
+    "ub": 350
+},
+{
+    "codigo": 3440,
+    "practica": "CARIOTIPO - material de aborto",
+    "ub": 200
+},
+{
+    "codigo": 3443,
+    "practica": "CARIOTIPO - medula ósea (Citogenetico de MO)",
+    "ub": 140
+},
+{
+    "codigo": 3446,
+    "practica": "CARIOTIPO - vellosidades coriónicas",
+    "ub": 350
+},
+{
+    "codigo": 3461,
+    "practica": "CARNITINA, Libre y Total - suero",
+    "ub": 160
+},
+{
+    "codigo": 3463,
+    "practica": "CARNITINA, Libre y Total - urinario",
+    "ub": 160
+},
+{
+    "codigo": 3478,
+    "practica": "CATECOLAMINAS - LCR",
+    "ub": 25
+},
+{
+    "codigo": 3495,
+    "practica": "CD34 POSITIVAS - Citometria de Flujo",
+    "ub": 35
+},
+{
+    "codigo": 3504,
+    "practica": "CD10/CD19 - Citom. de Flujo",
+    "ub": 35
+},
+{
+    "codigo": 3512,
+    "practica": "CD3/CD16+56, CELULAS NATURAL KILLER (NK) - Citom.\nde Flujo",
+    "ub": 35
+},
+{
+    "codigo": 3521,
+    "practica": "CD25 RECEPTOR SOLUBLE DE INTERLUKINA 2 - Citom.\nde Flujo",
+    "ub": 35
+},
+{
+    "codigo": 3529,
+    "practica": "CD69/CD56",
+    "ub": 35
+},
+{
+    "codigo": 3538,
+    "practica": "CD, SUBPOBLACION LINFOCITARIA - Citometria de\nFlujo (C/U)",
+    "ub": 35
+},
+{
+    "codigo": 3543,
+    "practica": "CELULARIDAD en lagrimas",
+    "ub": 10
+},
+{
+    "codigo": 3546,
+    "practica": "CELULAS LE",
+    "ub": 7
+},
+{
+    "codigo": 3563,
+    "practica": "CENTROMERO, Ac. Anti-",
+    "ub": 22
+},
+{
+    "codigo": 3571,
+    "practica": "CHAGAS, Ac. IgM Anti- (ELISA)",
+    "ub": 14
+},
+{
+    "codigo": 3572,
+    "practica": "CHAGAS, Ac. IgM Anti- (IFI)",
+    "ub": 14
+},
+{
+    "codigo": 3576,
+    "practica": "CHAGAS, (PCR)",
+    "ub": 90
+},
+{
+    "codigo": 3582,
+    "practica": "CHIKUNGUNYA , virus (PCR)",
+    "ub": 90
+},
+{
+    "codigo": 3585,
+    "practica": "CHITOTRIOSIDASA - sanguinea.",
+    "ub": 110
+},
+{
+    "codigo": 3586,
+    "practica": "CHITOTRIOSIDASA - sanguinea/soporte-papel (Fluorometrico)",
+    "ub": 110
+},
+{
+    "codigo": 3589,
+    "practica": "CHLAMYDIA PNEUMONIAE, Ac. IgM Anti-",
+    "ub": 20
+},
+{
+    "codigo": 3591,
+    "practica": "CHLAMYDIA PNEUMONIAE - PCR",
+    "ub": 90
+},
+{
+    "codigo": 3598,
+    "practica": "CHLAMYDIA PSITACCI, Ac. IgG Anti-",
+    "ub": 18
+},
+{
+    "codigo": 3606,
+    "practica": "CHLAMYDIA PSITACCI, Ac. IgM Anti-",
+    "ub": 20
+},
+{
+    "codigo": 3609,
+    "practica": "CHLAMYDIA PSITACCI - PCR",
+    "ub": 90
+},
+{
+    "codigo": 3623,
+    "practica": "CHLAMYDIA TRACHOMATIS, Ac. IgG Anti-",
+    "ub": 18
+},
+{
+    "codigo": 3632,
+    "practica": "CHLAMYDIA TRACHOMATIS, Ac. IgM Anti-",
+    "ub": 20
+},
+{
+    "codigo": 3640,
+    "practica": "CHLAMYDIA TRACHOMATIS, Ag.",
+    "ub": 20
+},
+{
+    "codigo": 3649,
+    "practica": "CHLAMYDIA TRACHOMATIS, Ag. PCR",
+    "ub": 90
+},
+{
+    "codigo": 3650,
+    "practica": "CHLAMYDIA TRACHOMATIS, cultivo celular",
+    "ub": 95
+},
+{
+    "codigo": 3651,
+    "practica": "CHLAMYDIA TRACHOMATIS - LCR",
+    "ub": "-"
+},
+{
+    "codigo": 3657,
+    "practica": "CHOLERAE VIBRIO, CULTIVO",
+    "ub": "-"
+},
+{
+    "codigo": 3666,
+    "practica": "CIANUROS",
+    "ub": 22
+},
+{
+    "codigo": 3674,
+    "practica": "CICLOSPORINA A - serica",
+    "ub": 30
+},
+{
+    "codigo": 3683,
+    "practica": "CISTINA",
+    "ub": 15
+},
+{
+    "codigo": 3717,
+    "practica": "CITOMEGALOVIRUS, ANTIGENEMIA (CMV - PP65)",
+    "ub": 45
+},
+{
+    "codigo": 3720,
+    "practica": "CITOMEGALOVIRUS, detección cuantitativa - PCR",
+    "ub": 150
+},
+{
+    "codigo": 3722,
+    "practica": "CITOMEGALOVIRUS, detección cualitativa - PCR",
+    "ub": 70
+},
+{
+    "codigo": 3734,
+    "practica": "CITOPLASMA DE NEUTROFILO, Ac. Anti- c/u (ANCA C, P\n- c/u)",
+    "ub": 28
+},
+{
+    "codigo": 3751,
+    "practica": "CLEMENTS, Prueba de",
+    "ub": 12
+},
+{
+    "codigo": 3756,
+    "practica": "CLORPIRIFOS ETIL",
+    "ub": 60
+},
+{
+    "codigo": 3760,
+    "practica": "CLOSTRIDIUM DIFFICILE, Toxina A - materia fecal.",
+    "ub": 80
+},
+{
+    "codigo": 3762,
+    "practica": "CLOSTRIDIUM DIFFICILE, Toxinas (A + B) - Materia Fecal (Inmunocromatografia)",
+    "ub": 100
+},
+{
+    "codigo": 3786,
+    "practica": "COBALTO - plasmatico",
+    "ub": 20
+},
+{
+    "codigo": 3788,
+    "practica": "COBALTO - urinario",
+    "ub": 20
+},
+{
+    "codigo": 3814,
+    "practica": "COBRE - eritrocitario",
+    "ub": 20
+},
+{
+    "codigo": 3820,
+    "practica": "COBRE - urinario",
+    "ub": 20
+},
+{
+    "codigo": 3828,
+    "practica": "COCAINA, GC-MS - Confirmatorio.",
+    "ub": 120
+},
+{
+    "codigo": 3837,
+    "practica": "COCCIDIOIDES INMITIS, Ac. Anti- BANDA F",
+    "ub": "-"
+},
+{
+    "codigo": 3845,
+    "practica": "COCCIDIOIDES INMITIS, Ac. Anti- BANDA TP",
+    "ub": "-"
+},
+{
+    "codigo": 3854,
+    "practica": "COCCIDIOIDES INMITIS, Ac. Anti- CIE",
+    "ub": "-"
+},
+{
+    "codigo": 3860,
+    "practica": "COCCIDIOIDES INMITIS, Ac. Ig Totales Anti-",
+    "ub": 40
+},
+{
+    "codigo": 3862,
+    "practica": "COCCIDIOIDES INMITIS, Ac. IgG Anti-",
+    "ub": 28
+},
+{
+    "codigo": 3871,
+    "practica": "COCCIDIOIDES INMITIS, Ac. IgM Anti-",
+    "ub": 28
+},
+{
+    "codigo": 3880,
+    "practica": "COCLEARES, Ac. Anti- (Anti- P68 KDA) (Western Blot)",
+    "ub": 150
+},
+{
+    "codigo": 3888,
+    "practica": "CODEINA - serica",
+    "ub": 50
+},
+{
+    "codigo": 3890,
+    "practica": "CODEINA - urinaria",
+    "ub": 50
+},
+{
+    "codigo": 3905,
+    "practica": "COFACTOR DE RISTOCETINA",
+    "ub": 60
+},
+{
+    "codigo": 3910,
+    "practica": "COLESTEROL NO HDL",
+    "ub": 5.5
+},
+{
+    "codigo": 3922,
+    "practica": "COMPLEMENTO C1Q (PROTEINA 11S)",
+    "ub": 28
+},
+{
+    "codigo": 3926,
+    "practica": "COMPLEMENTO C2",
+    "ub": "-"
+},
+{
+    "codigo": 3939,
+    "practica": "CONCENTRACION BACTERICIDA MINIMA (CBM)",
+    "ub": 28
+},
+{
+    "codigo": 3948,
+    "practica": "CONCENTRACION INHIBITORIA MINIMA (CIM)",
+    "ub": 28
+},
+{
+    "codigo": 3953,
+    "practica": "CONEXINA 26 -  MUTACIONES 35delG (GJB2) o Cx26 -\nPCR Para sordera hereditaria no sindrómica",
+    "ub": 77
+},
+{
+    "codigo": 3955,
+    "practica": "CONEXINA 26 - SECUENCIACION - PCR",
+    "ub": 115
+},
+{
+    "codigo": 3960,
+    "practica": "COPROPORFIRINAS - eritrocitarias",
+    "ub": 15
+},
+{
+    "codigo": 3974,
+    "practica": "COREA DE HUNTINGTON - PCR",
+    "ub": 500
+},
+{
+    "codigo": 3982,
+    "practica": "CORPUSCULOS METACROMATICOS - urinario",
+    "ub": 10
+},
+{
+    "codigo": 3994,
+    "practica": "CORRECCION C/PLASMA NORMAL - aPTT",
+    "ub": 25
+},
+{
+    "codigo": 3996,
+    "practica": "CORRECCION C/PLASMA NORMAL - TP",
+    "ub": 25
+},
+{
+    "codigo": 4002,
+    "practica": "CORTEX ADRENAL, Ac. ANTI- (A.A.C.A)",
+    "ub": 0
+},
+{
+    "codigo": 4008,
+    "practica": "CORTISOL LIBRE - urinario (CLU)",
+    "ub": 12
+},
+{
+    "codigo": 4012,
+    "practica": "CORTISOL - salival",
+    "ub": 12
+},
+{
+    "codigo": 4033,
+    "practica": "COTININA - serica",
+    "ub": 25
+},
+{
+    "codigo": 4035,
+    "practica": "COTININA - urinaria",
+    "ub": 25
+},
+{
+    "codigo": 4050,
+    "practica": "COXIELLA BURNETTI, Ac. IgG Anti-",
+    "ub": 30
+},
+{
+    "codigo": 4059,
+    "practica": "COXIELLA BURNETTI, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 4068,
+    "practica": "COXSACKIE VIRUS A, 2-7-9, Ac. Anti- (c/u)",
+    "ub": 19
+},
+{
+    "codigo": 4076,
+    "practica": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ag. (c/u)",
+    "ub": 19
+},
+{
+    "codigo": 4085,
+    "practica": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. Anti- (pool)",
+    "ub": 19
+},
+{
+    "codigo": 4093,
+    "practica": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. Anti- (c/u)",
+    "ub": 19
+},
+{
+    "codigo": 4102,
+    "practica": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. IgM Anti- (c/u)",
+    "ub": 23
+},
+{
+    "codigo": 4105,
+    "practica": "CREATINA - serica",
+    "ub": 10
+},
+{
+    "codigo": 4106,
+    "practica": "CREATINA - urinaria",
+    "ub": 10
+},
+{
+    "codigo": 4110,
+    "practica": "CRIOCRITO",
+    "ub": 10
+},
+{
+    "codigo": 4119,
+    "practica": "CRIOFIBRINOGENO",
+    "ub": 10
+},
+{
+    "codigo": 4125,
+    "practica": "CRISTALIZACION en lagrimas",
+    "ub": 7
+},
+{
+    "codigo": 4132,
+    "practica": "CROMO (Cr)- pelo",
+    "ub": 22
+},
+{
+    "codigo": 4134,
+    "practica": "CROMO (Cr) - serico",
+    "ub": 20
+},
+{
+    "codigo": 4136,
+    "practica": "CROMO (Cr) - urinario",
+    "ub": 20
+},
+{
+    "codigo": 4141,
+    "practica": "CROMOGRANINA A",
+    "ub": 150
+},
+{
+    "codigo": 4143,
+    "practica": "CROMOSOMA, ALTERACIONES del (c/u) Delección Cromosoma 13 (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 4144,
+    "practica": "CROMOSOMA, ALTERACIONES del (c/u) - Delección 17 P53 - (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 4145,
+    "practica": "CROMOSOMA, ALTERACIONES del (c/u) Delección cromosoma 6 MYB (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 4146,
+    "practica": "CROMOSOMA, ALTERACIONES del (c/u) Delección C11 ATM-5q-7q - gen ATM (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 4147,
+    "practica": "CROMOSOMA, ALTERACIONES del (c/u) TRISOMIA 12 - CENTROMERO 12 (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 4150,
+    "practica": "CROMOSOMA FILADELFIA - PCR - LMC -",
+    "ub": 220
+},
+{
+    "codigo": 4155,
+    "practica": "CROMOSOMA X, FRAGILIDAD - PCR",
+    "ub": 250
+},
+{
+    "codigo": 4160,
+    "practica": "CROMOSOMA X, FISH",
+    "ub": 250
+},
+{
+    "codigo": 4165,
+    "practica": "CROMOSOMA Y, DELECCIONES del",
+    "ub": 275
+},
+{
+    "codigo": 4187,
+    "practica": "CROSS MATCH, AUTOLOGO - Citom. de Flujo",
+    "ub": 210
+},
+{
+    "codigo": 4190,
+    "practica": "CROSS MATCH, AUTOLOGO - Linfotoxicidad.",
+    "ub": 55
+},
+{
+    "codigo": 4196,
+    "practica": "CROSS MATCH, CONTRA PANEL",
+    "ub": 65
+},
+{
+    "codigo": 4204,
+    "practica": "CROSS MATCH, DONANTE - Citom. de Flujo",
+    "ub": 230
+},
+{
+    "codigo": 4213,
+    "practica": "CROSS MATCH, DONANTE - Linfotoxicidad.",
+    "ub": 65
+},
+{
+    "codigo": 4221,
+    "practica": "CROSS MATCH, DTT",
+    "ub": 65
+},
+{
+    "codigo": 4230,
+    "practica": "CROSS MATCH, MATRIMONIAL - Citometria de Flujo",
+    "ub": 300
+},
+{
+    "codigo": 4240,
+    "practica": "CROSS MATCH, PACIENTE HIPERSENSIBILIZADO",
+    "ub": 110
+},
+{
+    "codigo": 4256,
+    "practica": "CRYPTOSPORIDIUM Sp,",
+    "ub": 15
+},
+{
+    "codigo": 4264,
+    "practica": "CRYPTOCOCCUS NEOFORMANS, Ag.",
+    "ub": 40
+},
+{
+    "codigo": 4266,
+    "practica": "CRYPTOCOCCUS NEOFORMANS, Ag. (Microscopia -\nTinta china)",
+    "ub": 8
+},
+{
+    "codigo": 4290,
+    "practica": "CUERPOS REDUCTORES",
+    "ub": 7
+},
+{
+    "codigo": 4307,
+    "practica": "4,4' -DDD (p,p' -DDD) - 4,4'- DICLORODIFENILDICLOROETANO",
+    "ub": 60
+},
+{
+    "codigo": 4315,
+    "practica": "4,4' -DDE (p,p' - DDE) - 4,4'- DICLORODIFENILDICLOROETILENO",
+    "ub": 60
+},
+{
+    "codigo": 4324,
+    "practica": "4,4' -DDT (p,p' -DDT) - 4,4'- DICLORODIFENILTRICLOROETANO",
+    "ub": 60
+},
+{
+    "codigo": 4333,
+    "practica": "DEGRANULACION DE BASOFILOS - TEST DE ACTIVACION DE BASOFILOS",
+    "ub": 50
+},
+{
+    "codigo": 4340,
+    "practica": "DEHIDROEPIANDROSTERONA",
+    "ub": 20
+},
+{
+    "codigo": 4350,
+    "practica": "Delta-BHC (δ-HCH) - delta-HEXACLORURO de BENCENO\n- delta-HEXACLORAN - delta-LINDANO - delta- 1,2,3,4,5,6-HEXACLOROCICLOHEXANO.",
+    "ub": 60
+},
+{
+    "codigo": 4361,
+    "practica": "DENGUE, Ac. Anti- IgG",
+    "ub": 35
+},
+{
+    "codigo": 4363,
+    "practica": "DENGUE, Ac. Anti- IgM",
+    "ub": 35
+},
+{
+    "codigo": 4365,
+    "practica": "DENGUE, Acs. Anti- IgG e IgM (Cualitativo)",
+    "ub": 35
+},
+{
+    "codigo": 4367,
+    "practica": "DENGUE, Ag. - ELISA",
+    "ub": 35
+},
+{
+    "codigo": 4369,
+    "practica": "DENGUE - PCR",
+    "ub": 110
+},
+{
+    "codigo": 4370,
+    "practica": "DENGUE - SEROTIPIFICACION",
+    "ub": 130
+},
+{
+    "codigo": 4375,
+    "practica": "DEOXIPIRIDINOLINAS (DPD)",
+    "ub": 28
+},
+{
+    "codigo": 4384,
+    "practica": "DESIPRAMINA",
+    "ub": 24
+},
+{
+    "codigo": 4387,
+    "practica": "DESMOGLEINA, Ac. Anti- Ag. 1 y 3 IgG",
+    "ub": 110
+},
+{
+    "codigo": 4388,
+    "practica": "DIAZINON",
+    "ub": 60
+},
+{
+    "codigo": 4392,
+    "practica": "DIELDRIN",
+    "ub": 60
+},
+{
+    "codigo": 4418,
+    "practica": "DIMERO-D",
+    "ub": 35
+},
+{
+    "codigo": 4435,
+    "practica": "DIMETOATO",
+    "ub": 60
+},
+{
+    "codigo": 4444,
+    "practica": "DIMETOXIFENILETILAMINA, 3,4- (DMFA)",
+    "ub": 19
+},
+{
+    "codigo": 4452,
+    "practica": "DISULFOTON",
+    "ub": 60
+},
+{
+    "codigo": 4461,
+    "practica": "DNA, SS - CADENA SIMPLE (DNAss)",
+    "ub": 35
+},
+{
+    "codigo": 4469,
+    "practica": "DNA, DESNATURALIZADO, Ac. Anti -",
+    "ub": 40
+},
+{
+    "codigo": 4478,
+    "practica": "DNA, Muestra Forense",
+    "ub": 1400
+},
+{
+    "codigo": 4503,
+    "practica": "DOPAMINA, TOTAL - serica",
+    "ub": 20
+},
+{
+    "codigo": 4512,
+    "practica": "DOPAMINA LIBRE - urinaria",
+    "ub": 20
+},
+{
+    "codigo": 4521,
+    "practica": "DOXEPINA",
+    "ub": 25
+},
+{
+    "codigo": 4546,
+    "practica": "ECHINOCOCCUS GRANULOSOS, Ac. IgG Anti-",
+    "ub": 23
+},
+{
+    "codigo": 4549,
+    "practica": "ECHINOCOCCUS GRANULOSOS, Ac. IgM Anti-",
+    "ub": 25
+},
+{
+    "codigo": 4563,
+    "practica": "ECHO COXSACKIE, 1-6 Ac. IgG Anti-",
+    "ub": 24
+},
+{
+    "codigo": 4566,
+    "practica": "ECHO COXSACKIE, 1-6 IgM",
+    "ub": 28
+},
+{
+    "codigo": 4580,
+    "practica": "ECHOVIRUS, Ac. IgG Anti-",
+    "ub": 30
+},
+{
+    "codigo": 4583,
+    "practica": "ECHOVIRUS, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 4590,
+    "practica": "ECTOPARASITOS, Busqueda e identificación.",
+    "ub": 25
+},
+{
+    "codigo": 4600,
+    "practica": "ELASTASA PANCREATICA",
+    "ub": 120
+},
+{
+    "codigo": 4615,
+    "practica": "EMBRIOTOXICIDAD, BIOENSAYO.",
+    "ub": "-"
+},
+{
+    "codigo": 4623,
+    "practica": "ENA, Ac. Anti- (ANTIGENOS NUCLEARES EXTRAIDOS, Ac. Anti- ) - (SSA, SSB, Sm, RNP o U1RNP)",
+    "ub": 50
+},
+{
+    "codigo": 4632,
+    "practica": "ENDOMISIO, Ac. IgA Anti- (EMA IgA)",
+    "ub": 14
+},
+{
+    "codigo": 4640,
+    "practica": "ENDOMISIO, Ac. IgG Anti- (EMA IgG)",
+    "ub": 14
+},
+{
+    "codigo": 4648,
+    "practica": "ENDOSULFAN I",
+    "ub": 60
+},
+{
+    "codigo": 4649,
+    "practica": "ENDOSULFAN II",
+    "ub": 60
+},
+{
+    "codigo": 4652,
+    "practica": "ENDOSULFAN SULFATO",
+    "ub": 60
+},
+{
+    "codigo": 4666,
+    "practica": "ENDRIN",
+    "ub": 60
+},
+{
+    "codigo": 4668,
+    "practica": "ENDRIN ALDEHIDO",
+    "ub": "-"
+},
+{
+    "codigo": 4674,
+    "practica": "ENTAMOEBA HISTOLYTICA, Ac. IgG Anti-",
+    "ub": 40
+},
+{
+    "codigo": 4677,
+    "practica": "ENTAMOEBA HISTOLYTICA, Ac. IgM Anti-",
+    "ub": 40
+},
+{
+    "codigo": 4682,
+    "practica": "ENTEROCOCOS VANCOMICINA RESISTENTE - PCR",
+    "ub": 95
+},
+{
+    "codigo": 4691,
+    "practica": "ENTEROVIRUS - PCR",
+    "ub": 90
+},
+{
+    "codigo": 4700,
+    "practica": "ENZIMA CONVERTIDORA de ANGIOTENSINA (ECA)",
+    "ub": 40
+},
+{
+    "codigo": 4709,
+    "practica": "EPSTEIN BARR, Anti- EBNA (Epstein Barr Nuclear Associated Antigen)",
+    "ub": 40
+},
+{
+    "codigo": 4717,
+    "practica": "EPSTEIN BARR, detección cuantitativa - PCR",
+    "ub": 150
+},
+{
+    "codigo": 4726,
+    "practica": "EPSTEIN BARR, Early Antig. Ac.",
+    "ub": 30
+},
+{
+    "codigo": 4728,
+    "practica": "EPSTEIN BARR, detección cualitativa - PCR",
+    "ub": 90
+},
+{
+    "codigo": 4734,
+    "practica": "ERITROPOYETINA (EPO)",
+    "ub": 45
+},
+{
+    "codigo": 4738,
+    "practica": "ESCHERICHIA COLI - ENTEROPATOGENA - PCR",
+    "ub": 95
+},
+{
+    "codigo": 4749,
+    "practica": "ESPERMA, Ac. Anti- ESPERMATOZOIDES (DIRECTO)",
+    "ub": 15
+},
+{
+    "codigo": 4755,
+    "practica": "ESPERMA, Ac. Anti- ESPERMATOZOIDES (INDIRECTO)",
+    "ub": 15
+},
+{
+    "codigo": 4775,
+    "practica": "ESPERMA, CELULAS REDONDAS CON DIFERENCIACION DE PEROXIDASAS",
+    "ub": 10
+},
+{
+    "codigo": 4778,
+    "practica": "ESPERMA, CELULAS REDONDAS TOTALES EN SEMEN",
+    "ub": 5
+},
+{
+    "codigo": 4793,
+    "practica": "ESPERMA, CONDENSACION NUCLEAR DE LA\nCROMATINA (Azul Anilina, Tinción)",
+    "ub": 25
+},
+{
+    "codigo": 4811,
+    "practica": "ESPERMA, DIGESTION EN GELATINA ACROSOMICA",
+    "ub": 20
+},
+{
+    "codigo": 4823,
+    "practica": "ESPERMA, ESPERMATOZOIDES EN ORINA, ESTUDIO DE RETROEYACULACION",
+    "ub": 10
+},
+{
+    "codigo": 4825,
+    "practica": "ESPERMA, ESPERMATOZOIDES DE ORINA, RECUPERACION PARA SELECCION  DIAGNOSTICA",
+    "ub": 60
+},
+{
+    "codigo": 4827,
+    "practica": "ESPERMA, ESPERMATOZOIDES DE ORINA, RECUPERACION PARA SELECCION  EN INSEMINACION",
+    "ub": 120
+},
+{
+    "codigo": 4838,
+    "practica": "ESPERMA, HETEROGENEIDAD CROMATINICA (NARANJA DE ACRIDINA)",
+    "ub": 20
+},
+{
+    "codigo": 4846,
+    "practica": "ESPERMA, INDICE DE TERATOZOOSPERMIA",
+    "ub": 20
+},
+{
+    "codigo": 4858,
+    "practica": "ESPERMA - MODULO I (ESPERMOGRAMA COMPLETO)",
+    "ub": 49
+},
+{
+    "codigo": 4860,
+    "practica": "ESPERMA - MODULO II",
+    "ub": 107
+},
+{
+    "codigo": 4868,
+    "practica": "ESPERMA, MORFOLOGIA CRITERIO ESTRICTO (OMS 2010 - MORFOLOGIA KRUGER)",
+    "ub": 10
+},
+{
+    "codigo": 4878,
+    "practica": "ESPERMA, PRUEBA DE SOBREVIDA ESPERMATICA",
+    "ub": 10
+},
+{
+    "codigo": 4889,
+    "practica": "ESPERMA, RECUENTO DE ESPERMATOZOIDES",
+    "ub": 6
+},
+{
+    "codigo": 4923,
+    "practica": "ESPERMA, SELECCION DE GRADIENTES (DIAGNOSTICO)",
+    "ub": 60
+},
+{
+    "codigo": 4930,
+    "practica": "ESPERMA, SELECCION DE GRADIENTES (INSEMINACION)",
+    "ub": 100
+},
+{
+    "codigo": 4941,
+    "practica": "ESPERMA, SWIM UP (DIAGNOSTICO)",
+    "ub": 60
+},
+{
+    "codigo": 4949,
+    "practica": "ESPERMA, SWIM UP (INSEMINACION)",
+    "ub": 100
+},
+{
+    "codigo": 4964,
+    "practica": "ESPERMA, TEST DE FRAGMENTACION DE ADN ESPERMATICO",
+    "ub": 110
+},
+{
+    "codigo": 4971,
+    "practica": "ESPERMA, TEST DE HIPERACTIVACION",
+    "ub": 22
+},
+{
+    "codigo": 4978,
+    "practica": "ESPERMA, TEST DE MOST",
+    "ub": 75
+},
+{
+    "codigo": 4985,
+    "practica": "ESPERMA, TEST HIPOSMOTICO",
+    "ub": 8
+},
+{
+    "codigo": 4999,
+    "practica": "ESTEATOCRITO (Grasas - materia fecal)",
+    "ub": 9
+},
+{
+    "codigo": 5008,
+    "practica": "ESTIRENO",
+    "ub": 16
+},
+{
+    "codigo": 5016,
+    "practica": "ESTRADIOL BIODISPONIBLE (E2 Biodisponible)",
+    "ub": 25
+},
+{
+    "codigo": 5033,
+    "practica": "ESTRIOL LIBRE - serico.",
+    "ub": 35
+},
+{
+    "codigo": 5043,
+    "practica": "ETION",
+    "ub": 60
+},
+{
+    "codigo": 5050,
+    "practica": "EUGLOBULINAS, LISIS de (pre y post-isquemia)",
+    "ub": 15
+},
+{
+    "codigo": 5053,
+    "practica": "EVEROLIMUS",
+    "ub": 90
+},
+{
+    "codigo": 5055,
+    "practica": "EXTASIS - MDMA (Inmunoensayo)",
+    "ub": 45
+},
+{
+    "codigo": 5059,
+    "practica": "FACTOR de COAGULACION II",
+    "ub": 35
+},
+{
+    "codigo": 5067,
+    "practica": "FACTOR de COAGULACION XI",
+    "ub": 35
+},
+{
+    "codigo": 5076,
+    "practica": "FACTOR de COAGULACION XII",
+    "ub": 35
+},
+{
+    "codigo": 5077,
+    "practica": "FACTOR de COAGULACION XIII",
+    "ub": 35
+},
+{
+    "codigo": 5085,
+    "practica": "FACTOR INTRINSECO, Ac. Anti-",
+    "ub": 55
+},
+{
+    "codigo": 5093,
+    "practica": "FACTOR REUMATOIDEO (Nefelometria)",
+    "ub": 16
+},
+{
+    "codigo": 5102,
+    "practica": "FACTOR V LEIDEN - PCR",
+    "ub": 75
+},
+{
+    "codigo": 5116,
+    "practica": "FACTOR VON WILLEBRAND, Funcional",
+    "ub": 70
+},
+{
+    "codigo": 5119,
+    "practica": "FACTOR VON WILLEBRAND (Inmunológico)",
+    "ub": 60
+},
+{
+    "codigo": 5127,
+    "practica": "FAMPHUR (FAMFUR)",
+    "ub": 60
+},
+{
+    "codigo": 5132,
+    "practica": "FELBAMATO",
+    "ub": "-"
+},
+{
+    "codigo": 5136,
+    "practica": "FENCICLIDINA - FENILCICLOHEXILPIPERIDINA -PCP (IFP)",
+    "ub": 20
+},
+{
+    "codigo": 5144,
+    "practica": "FENETILAMINA - F.E.A.",
+    "ub": 25
+},
+{
+    "codigo": 5204,
+    "practica": "FENITOTRION",
+    "ub": 60
+},
+{
+    "codigo": 5213,
+    "practica": "FENOLES - urinarios",
+    "ub": 19
+},
+{
+    "codigo": 5222,
+    "practica": "FENTANILO - urinario",
+    "ub": 50
+},
+{
+    "codigo": 5230,
+    "practica": "FERRITINA",
+    "ub": 15
+},
+{
+    "codigo": 5238,
+    "practica": "FIBRINOGENO, PRODUCTOS DE DEGRADACION\n(P.D.F.) - urinario",
+    "ub": 30
+},
+{
+    "codigo": 5247,
+    "practica": "FIBROSIS QUISTICA, 19 MUTACIONES - PCR",
+    "ub": 310
+},
+{
+    "codigo": 5255,
+    "practica": "FIBROSIS QUISTICA, 29 MUTACIONES - PCR",
+    "ub": 450
+},
+{
+    "codigo": 5258,
+    "practica": "FIBROSIS QUISTICA, 32 MUTACIONES - PCR",
+    "ub": 465
+},
+{
+    "codigo": 5265,
+    "practica": "FIBROSIS QUISTICA, DF508",
+    "ub": 100
+},
+{
+    "codigo": 5273,
+    "practica": "FILIACION ESTUDIO DNA EXTRA (por cada uno\nagregado)",
+    "ub": 200
+},
+{
+    "codigo": 5281,
+    "practica": "FILIACION ESTUDIO DNA HASTA 3",
+    "ub": 700
+},
+{
+    "codigo": 5290,
+    "practica": "FISH WILLIAMS",
+    "ub": 410
+},
+{
+    "codigo": 5298,
+    "practica": "FK - 506 - Tacrolimus",
+    "ub": 60
+},
+{
+    "codigo": 5300,
+    "practica": "FLAVIVIRUS",
+    "ub": 90
+},
+{
+    "codigo": 5307,
+    "practica": "FORATO",
+    "ub": 60
+},
+{
+    "codigo": 5319,
+    "practica": "FOSFATASA ACIDA LEUCOCITARIA",
+    "ub": 15
+},
+{
+    "codigo": 5324,
+    "practica": "FOSFATASA ACIDA PROSTATICA (RIA)",
+    "ub": 19
+},
+{
+    "codigo": 5332,
+    "practica": "FOSFATASA ACIDA TARTRATO RESISTENTE",
+    "ub": 8
+},
+{
+    "codigo": 5335,
+    "practica": "FOSFATASA ACIDA TARTRATO RESISTENTE LEUC.",
+    "ub": 12
+},
+{
+    "codigo": 5349,
+    "practica": "FOSFATASA ALCALINA OSEA (RIA)",
+    "ub": 25
+},
+{
+    "codigo": 5375,
+    "practica": "FOSFATIDIL COLINA, Ac. IgG Anti-",
+    "ub": 18
+},
+{
+    "codigo": 5378,
+    "practica": "FOSFATIDIL COLINA, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 5392,
+    "practica": "FOSFATIDIL GLICEROL, Ac. IgG Anti-",
+    "ub": 20
+},
+{
+    "codigo": 5409,
+    "practica": "FOSFATIDIL INOSITOL, Ac. IgG Anti-",
+    "ub": 18
+},
+{
+    "codigo": 5412,
+    "practica": "FOSFATIDIL INOSITOL, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 5424,
+    "practica": "FOSFATIDIL SERINA, Ac. IgA Anti-",
+    "ub": 35
+},
+{
+    "codigo": 5426,
+    "practica": "FOSFATIDIL SERINA, Ac. IgG ó Ac. Totales Anti-",
+    "ub": 25
+},
+{
+    "codigo": 5428,
+    "practica": "FOSFATIDIL SERINA, Ac. IgM Anti-",
+    "ub": 25
+},
+{
+    "codigo": 5443,
+    "practica": "FOSFOHEXOSA ISOMERASA, Serica - PHI",
+    "ub": 6
+},
+{
+    "codigo": 5452,
+    "practica": "FOSFOLIPIDOS, Ac. IgG Anti-",
+    "ub": 20
+},
+{
+    "codigo": 5461,
+    "practica": "FOSFOLIPIDOS, Ac. IgM Anti-",
+    "ub": 20
+},
+{
+    "codigo": 5465,
+    "practica": "FOSFOLIPIDOS, Ac. Totales Anti- (IgA, IgG, IgM)",
+    "ub": 25
+},
+{
+    "codigo": 5469,
+    "practica": "FREE ANDROGEN INDEX-FAI",
+    "ub": 30
+},
+{
+    "codigo": 5472,
+    "practica": "FRIEDRICH, ATAXIA DE",
+    "ub": 450
+},
+{
+    "codigo": 5478,
+    "practica": "FRUCTOSA, liquido seminal o serica o urinaria",
+    "ub": 10
+},
+{
+    "codigo": 5486,
+    "practica": "FSH, Urinaria (HORMONA FOLICULO ESTIMULANTE -\nUrinaria)",
+    "ub": "-"
+},
+{
+    "codigo": 5494,
+    "practica": "GABAPENTINA",
+    "ub": "-"
+},
+{
+    "codigo": 5503,
+    "practica": "GAD, Ac. Anti- Glutamico Acid Decarboxilase (ACIDO GLUTAMICO DESCARBOXILASA, Ac. Anti-)",
+    "ub": 45
+},
+{
+    "codigo": 5508,
+    "practica": "GALACTOMANANO de ASPERGILLUS, Ag.",
+    "ub": 100
+},
+{
+    "codigo": 5512,
+    "practica": "GALACTOSA 1-URIDIL FOSFOTRANSFERASA",
+    "ub": 75
+},
+{
+    "codigo": 5520,
+    "practica": "Gamma-BHC (γ-HCH) - gamma-HEXACLORURO de BENCENO - gamma-HEXACLORAN - gamma-LINDANO - gamma-1,2,3,4,5,6-HEXACLOROCICLOHEXANO",
+    "ub": 60
+},
+{
+    "codigo": 5529,
+    "practica": "GANGLIOSIDO ASIALO GM1, Ac. Anti-",
+    "ub": 200
+},
+{
+    "codigo": 5533,
+    "practica": "GANGLIOSIDO GD 1B, Ac. Anti-",
+    "ub": 150
+},
+{
+    "codigo": 5537,
+    "practica": "GANGLIOSIDO GM1, Ac. (IgG + IgM) Anti-",
+    "ub": 150
+},
+{
+    "codigo": 5541,
+    "practica": "GANGLIOSIDO QUADROSIALO, GQ1b Ac. IgG",
+    "ub": 200
+},
+{
+    "codigo": 5546,
+    "practica": "GANGLIOSIDOS PANEL, Ac. (IgG + IgM) GM1 Asialo, GM2, GD1A, GD1b, GQ1b",
+    "ub": 300
+},
+{
+    "codigo": 5555,
+    "practica": "GENOTIPO de Rho (c/u)",
+    "ub": 15
+},
+{
+    "codigo": 5563,
+    "practica": "GENTAMICINA",
+    "ub": 25
+},
+{
+    "codigo": 5576,
+    "practica": "GLIADINA, Ac. IgA Anti- PEPTIDO DEAMIDADO de (DGP-IgA Anti-)",
+    "ub": 24
+},
+{
+    "codigo": 5583,
+    "practica": "GLIADINA, Ac. IgG Anti- PEPTIDO DEAMIDADO de (DGP-IgG Anti-)",
+    "ub": 24
+},
+{
+    "codigo": 5589,
+    "practica": "GLICEROL, serico.",
+    "ub": "-"
+},
+{
+    "codigo": 5597,
+    "practica": "GLICINA (HPLC)",
+    "ub": "-"
+},
+{
+    "codigo": 5606,
+    "practica": "GLICOFORINA, Citometria de Flujo",
+    "ub": 30
+},
+{
+    "codigo": 5621,
+    "practica": "GLICOSAMINOGLICANOS, cuantitativo",
+    "ub": 70
+},
+{
+    "codigo": 5632,
+    "practica": "GLOBULINA LIGADORA DE ANDROGENOS Y ESTROGENOS (GLAE / SHBG)",
+    "ub": 22
+},
+{
+    "codigo": 5640,
+    "practica": "GLOBULINA LIGADORA DE CORTICOIDES (CBG)",
+    "ub": "-"
+},
+{
+    "codigo": 5644,
+    "practica": "GLOBULINA TRANSPORTADORA DE TIROXINA (TBG)",
+    "ub": 42
+},
+{
+    "codigo": 5649,
+    "practica": "GLUCOCEREBROSIDASA",
+    "ub": 140
+},
+{
+    "codigo": 5666,
+    "practica": "GLUTATION PEROXIDASA (GPO)",
+    "ub": 25
+},
+{
+    "codigo": 5685,
+    "practica": "HAEMOPHILUS INFLUENZA, Ac. IgG Anti-",
+    "ub": 40
+},
+{
+    "codigo": 5687,
+    "practica": "HAEMOPHILUS INFLUENZA, Ac. IgM Anti-",
+    "ub": 40
+},
+{
+    "codigo": 5691,
+    "practica": "HAEMOPHILUS INFLUENZAE B, Ag. - plasmatico",
+    "ub": 25
+},
+{
+    "codigo": 5694,
+    "practica": "HAEMOPHILUS INFLUENZAE B, Ag. - urinario",
+    "ub": 25
+},
+{
+    "codigo": 5708,
+    "practica": "HALOPERIDOL",
+    "ub": 30
+},
+{
+    "codigo": 5715,
+    "practica": "HAM, PRUEBA DE",
+    "ub": 10
+},
+{
+    "codigo": 5724,
+    "practica": "HANTAVIRUS, Ac. IgG Anti-",
+    "ub": 60
+},
+{
+    "codigo": 5726,
+    "practica": "HANTAVIRUS, Ac. IgM Anti-",
+    "ub": 60
+},
+{
+    "codigo": 5743,
+    "practica": "HELICOBACTER PYLORI, Ac. IgA Anti-",
+    "ub": 22
+},
+{
+    "codigo": 5751,
+    "practica": "HELICOBACTER PYLORI, Ac. IgG Anti-",
+    "ub": 16
+},
+{
+    "codigo": 5760,
+    "practica": "HELICOBACTER PYLORI, Ac. IgM Anti-",
+    "ub": 16
+},
+{
+    "codigo": 5768,
+    "practica": "HELICOBACTER PYLORI, Aire espirado",
+    "ub": "-"
+},
+{
+    "codigo": 5777,
+    "practica": "HELICOBACTER PYLORI (Cultivo - Tipificación).",
+    "ub": 28
+},
+{
+    "codigo": 5780,
+    "practica": "HEMATIES, PRUEBA ELUSION ACIDA DE",
+    "ub": 8
+},
+{
+    "codigo": 5785,
+    "practica": "HEMOCROMATOSIS, Gen HH - PCR\n(HEMOCROMATOSIS HEREDITARIA HH - Gen HFE- CROMOSOMA 6)",
+    "ub": 80
+},
+{
+    "codigo": 5787,
+    "practica": "HEMOCROMATOSIS, MUTACION Gen C282Y - PCR",
+    "ub": 80
+},
+{
+    "codigo": 5789,
+    "practica": "HEMOCROMATOSIS, MUTACION Gen H63D - PCR",
+    "ub": 80
+},
+{
+    "codigo": 5791,
+    "practica": "HEMOCROMATOSIS, MUTACION Gen S65C - PCR",
+    "ub": 80
+},
+{
+    "codigo": 5797,
+    "practica": "HEMOCULTIVO AEROBIOS AUTOMATIZADO (c/u)",
+    "ub": 25
+},
+{
+    "codigo": 5802,
+    "practica": "HEMOGLOBINA A1 (Hb-A1) Electroforesis",
+    "ub": 12
+},
+{
+    "codigo": 5811,
+    "practica": "HEMOGLOBINA A2 (HbA2) (Cromatografia/Intercambio Iónico)",
+    "ub": 20
+},
+{
+    "codigo": 5820,
+    "practica": "HEMOGLOBINA FETAL",
+    "ub": 10
+},
+{
+    "codigo": 5828,
+    "practica": "HEMOGLOBINA S",
+    "ub": 9
+},
+{
+    "codigo": 5837,
+    "practica": "HEMOGLOBINURIA PAROXISTICA NOCTURNA,\nDETECCION de -  por Citometria de Flujo",
+    "ub": 175
+},
+{
+    "codigo": 5845,
+    "practica": "HEMOPEXINA",
+    "ub": "-"
+},
+{
+    "codigo": 5854,
+    "practica": "HEMOSIDERINURIA",
+    "ub": 9
+},
+{
+    "codigo": 5868,
+    "practica": "HEPARINA, Ac. Anti- (PFA4)",
+    "ub": "-"
+},
+{
+    "codigo": 5871,
+    "practica": "HEPARINA, ACTIVIDAD ANTI XA de la (LMWH) - HEPARINA de BAJO PESO MOLECULAR (HBPM).",
+    "ub": 40
+},
+{
+    "codigo": 5879,
+    "practica": "HEPATICOS, AUTOANTICUERPOS (panel)",
+    "ub": "-"
+},
+{
+    "codigo": 5888,
+    "practica": "HEPATITIS A, Ac. Anti- IgG (HVA IgG) o Ac. Totales (RIA o ELISA)",
+    "ub": 15
+},
+{
+    "codigo": 5896,
+    "practica": "HEPATITIS B, Ac. Anti- \"e\" (HBe Ac)",
+    "ub": 15
+},
+{
+    "codigo": 5905,
+    "practica": "HEPATITIS B, Ac. Anti- \"Core\" IgM (HBcM) - (RIA o ELISA)",
+    "ub": 18
+},
+{
+    "codigo": 5914,
+    "practica": "HEPATITIS B, Carga viral",
+    "ub": 185
+},
+{
+    "codigo": 5931,
+    "practica": "HEPATITIS B, DNA viral (HBV-DNA) (PCR - Cualitativo)",
+    "ub": 80
+},
+{
+    "codigo": 5939,
+    "practica": "HEPATITIS C, Ac. Anti- IgM",
+    "ub": 60
+},
+{
+    "codigo": 5945,
+    "practica": "HEPATITIS C, Antigeno",
+    "ub": 60
+},
+{
+    "codigo": 5956,
+    "practica": "HEPATITIS C, Carga viral (PCR)",
+    "ub": 185
+},
+{
+    "codigo": 5965,
+    "practica": "HEPATITIS C, Genotipificación (PCR)",
+    "ub": 135
+},
+{
+    "codigo": 5973,
+    "practica": "HEPATITIS C, LIA",
+    "ub": 150
+},
+{
+    "codigo": 5982,
+    "practica": "HEPATITIS C, RNA Cualitativo - PCR",
+    "ub": 120
+},
+{
+    "codigo": 5990,
+    "practica": "HEPATITIS DELTA, Ac. IgG ó Totales Anti-",
+    "ub": 48
+},
+{
+    "codigo": 5993,
+    "practica": "HEPATITIS DELTA, Ac. IgM Anti-",
+    "ub": 50
+},
+{
+    "codigo": 6008,
+    "practica": "HEPATITIS E, Ac. IgG Anti-",
+    "ub": 30
+},
+{
+    "codigo": 6011,
+    "practica": "HEPATITIS E - PCR",
+    "ub": 125
+},
+{
+    "codigo": 6016,
+    "practica": "HEPTACLORO",
+    "ub": 60
+},
+{
+    "codigo": 6019,
+    "practica": "HEPTACLORO HEPOXIDE",
+    "ub": 60
+},
+{
+    "codigo": 6028,
+    "practica": "HER 2 / neu - ErbB2",
+    "ub": 500
+},
+{
+    "codigo": 6034,
+    "practica": "HERPES SIMPLEX, 1 / 2 - Antic. Totales (IFI)",
+    "ub": 30
+},
+{
+    "codigo": 6037,
+    "practica": "HERPES SIMPLEX, 1 / 2 - PCR",
+    "ub": 90
+},
+{
+    "codigo": 6038,
+    "practica": "HERPES SIMPLEX, 1 / 2 - TIPIFICACION - PCR",
+    "ub": 130
+},
+{
+    "codigo": 6040,
+    "practica": "HERPES SIMPLEX 1, Ac. IgA Anti-",
+    "ub": 22
+},
+{
+    "codigo": 6042,
+    "practica": "HERPES SIMPLEX 1, Ac. IgG ó Totales Anti-",
+    "ub": 19
+},
+{
+    "codigo": 6050,
+    "practica": "HERPES SIMPLEX 1, Ac. IgM Anti-",
+    "ub": 19
+},
+{
+    "codigo": 6059,
+    "practica": "HERPES SIMPLEX 2, Ac. IgA Anti-",
+    "ub": 22
+},
+{
+    "codigo": 6067,
+    "practica": "HERPES SIMPLEX 2, Ac. IgG ó Totales Anti-",
+    "ub": 19
+},
+{
+    "codigo": 6076,
+    "practica": "HERPES SIMPLEX 2, Ac. IgM Anti-",
+    "ub": 19
+},
+{
+    "codigo": 6084,
+    "practica": "HERPES SIMPLEX, Ag.",
+    "ub": 25
+},
+{
+    "codigo": 6093,
+    "practica": "HERPES VIRUS 6 HUMAN, Ac. IgG (HHV6-IgG) Anti-",
+    "ub": 37
+},
+{
+    "codigo": 6096,
+    "practica": "HERPES VIRUS 6 HUMAN, Ac. IgM (HHV6-IgM) Anti-",
+    "ub": 37
+},
+{
+    "codigo": 6098,
+    "practica": "HERPES VIRUS 6 HUMAN - PCR",
+    "ub": 90
+},
+{
+    "codigo": 6100,
+    "practica": "HERPES VIRUS 6 HUMAN - Carga Viral",
+    "ub": 150
+},
+{
+    "codigo": 6110,
+    "practica": "HERPES VIRUS 7, Ac. IgG Anti- HHV",
+    "ub": 45
+},
+{
+    "codigo": 6113,
+    "practica": "HERPES VIRUS 7, Ac. IgM Anti- HHV",
+    "ub": 45
+},
+{
+    "codigo": 6117,
+    "practica": "HERPES VIRUS 8 - Ac. IgG Anti- HHV",
+    "ub": 60
+},
+{
+    "codigo": 6118,
+    "practica": "HERPES VIRUS 8 - Ac. IgM Anti- HHV",
+    "ub": 60
+},
+{
+    "codigo": 6120,
+    "practica": "HERPES VIRUS 8 - PCR",
+    "ub": 90
+},
+{
+    "codigo": 6136,
+    "practica": "HEXANO",
+    "ub": 16
+},
+{
+    "codigo": 6144,
+    "practica": "HEXANODIONA, (2,5-)",
+    "ub": 20
+},
+{
+    "codigo": 6153,
+    "practica": "HEXOSAMINIDASA TOTAL, A y B",
+    "ub": 300
+},
+{
+    "codigo": 6170,
+    "practica": "HIDATIDOSIS, Ac. IgM Anti- (ELISA)",
+    "ub": 25
+},
+{
+    "codigo": 6173,
+    "practica": "HIDATIDOSIS, Ac. IgM Anti- (IFI)",
+    "ub": 20
+},
+{
+    "codigo": 6183,
+    "practica": "HIDROCARBUROS ALIFATICOS",
+    "ub": 16
+},
+{
+    "codigo": 6187,
+    "practica": "HIDROCARBUROS AROMATICOS",
+    "ub": 16
+},
+{
+    "codigo": 6196,
+    "practica": "HIDROLASAS ACIDAS EN LEUCOCITOS",
+    "ub": "-"
+},
+{
+    "codigo": 6204,
+    "practica": "HIDROXIPIRENO",
+    "ub": 20
+},
+{
+    "codigo": 6209,
+    "practica": "HIERRO, Medula Osea (MO) - TINCION DE PERLS.",
+    "ub": 12
+},
+{
+    "codigo": 6211,
+    "practica": "HIERRO, TINCION DE",
+    "ub": 8
+},
+{
+    "codigo": 6213,
+    "practica": "HIERRO - Urinario",
+    "ub": 4
+},
+{
+    "codigo": 6222,
+    "practica": "HISTAMINA - Plasmatica",
+    "ub": 38
+},
+{
+    "codigo": 6225,
+    "practica": "HISTAMINA - Urinaria",
+    "ub": 38
+},
+{
+    "codigo": 6238,
+    "practica": "HISTONA, Ac. Anti-",
+    "ub": 30
+},
+{
+    "codigo": 6247,
+    "practica": "HISTOPLASMA CAPSULATUM, Ac. IgG Anti-",
+    "ub": 24
+},
+{
+    "codigo": 6255,
+    "practica": "HISTOPLASMA CAPSULATUM, Ac. IgM Anti-",
+    "ub": 24
+},
+{
+    "codigo": 6264,
+    "practica": "HIV - PCR Cualitativo",
+    "ub": 80
+},
+{
+    "codigo": 6272,
+    "practica": "HIV 1 ANTI-P-24 (core)",
+    "ub": 34
+},
+{
+    "codigo": 6275,
+    "practica": "HIV - P-24 (Antigenemia)",
+    "ub": 25
+},
+{
+    "codigo": 6278,
+    "practica": "HIV - P-24 - HIV 1 y 2 (Combo)",
+    "ub": 20
+},
+{
+    "codigo": 6281,
+    "practica": "HIV - RESISTENCIA A ANTIRETROVIRALES",
+    "ub": 400
+},
+{
+    "codigo": 6284,
+    "practica": "HIV - RESISTENCIA A  INHIBIDORES DE INTEGRASA",
+    "ub": 150
+},
+{
+    "codigo": 6300,
+    "practica": "HLA A, Molecular",
+    "ub": 150
+},
+{
+    "codigo": 6303,
+    "practica": "HLA B, Molecular",
+    "ub": 150
+},
+{
+    "codigo": 6332,
+    "practica": "HLA B 27 Molecular",
+    "ub": 80
+},
+{
+    "codigo": 6337,
+    "practica": "HLA-B 5701 GENOTIPO, ABACAVIR HIPERSENSIBILIDAD,\nsangre",
+    "ub": 200
+},
+{
+    "codigo": 6341,
+    "practica": "HLA C Molecular",
+    "ub": 140
+},
+{
+    "codigo": 6401,
+    "practica": "HLA DQ Molecular",
+    "ub": 160
+},
+{
+    "codigo": 6409,
+    "practica": "HLA DR Citometria Flujo",
+    "ub": 100
+},
+{
+    "codigo": 6426,
+    "practica": "HLA DR Molecular",
+    "ub": 150
+},
+{
+    "codigo": 6443,
+    "practica": "HLA DQA1, DQB1 (DIABETES) PCR",
+    "ub": 160
+},
+{
+    "codigo": 6445,
+    "practica": "HLA DQ2-DQ8 (CELIAQUIA) PCR",
+    "ub": 160
+},
+{
+    "codigo": 6452,
+    "practica": "HOMOCISTEINA",
+    "ub": 30
+},
+{
+    "codigo": 6455,
+    "practica": "HOMOCISTINA, Orina",
+    "ub": 15
+},
+{
+    "codigo": 6486,
+    "practica": "HOWELL, TEST (Plasma recalcificado, tiempo de-)",
+    "ub": 5
+},
+{
+    "codigo": 6529,
+    "practica": "HTLV-1 Ac",
+    "ub": 25
+},
+{
+    "codigo": 6533,
+    "practica": "HTLV-1 PCR",
+    "ub": 100
+},
+{
+    "codigo": 6537,
+    "practica": "HTLV-I/II (Particulas o ELISA)",
+    "ub": 23
+},
+{
+    "codigo": 6540,
+    "practica": "HTLV, Confirmatorio (Western Blot)",
+    "ub": 100
+},
+{
+    "codigo": 6554,
+    "practica": "Hu (ANNA-1) Ac. Anti-",
+    "ub": 100
+},
+{
+    "codigo": 6560,
+    "practica": "IA 2, Ac. Anti- (Ac. Anti- TIROSINFOSFATASA 2)",
+    "ub": 50
+},
+{
+    "codigo": 6570,
+    "practica": "IDENTIFICACION MICROBIOLOGICA AUTOMATIZADA.",
+    "ub": 50
+},
+{
+    "codigo": 6572,
+    "practica": "IDENTIFICACION MICROBIOLOGICA POR PCR.",
+    "ub": 50
+},
+{
+    "codigo": 6585,
+    "practica": "IgA BC - lagrima - INMUNOGLOBULINA A Baja Concentración en lagrima.",
+    "ub": 20
+},
+{
+    "codigo": 6587,
+    "practica": "IgA BC - LCR - INMUNOGLOBULINA A Baja\nConcentración en Liquido Cefalo Raquideo.",
+    "ub": 6
+},
+{
+    "codigo": 6589,
+    "practica": "IgA BC - saliva - INMUNOGLOBULINA A Baja Concentración en saliva.",
+    "ub": 6
+},
+{
+    "codigo": 6597,
+    "practica": "IgE BC - INMUNOGLOBULINA E Baja Concentración.",
+    "ub": 12
+},
+{
+    "codigo": 6600,
+    "practica": "IgE BC - lagrimas - INMUNOGLOBULINA E Baja Concentración en lagrima.",
+    "ub": 20
+},
+{
+    "codigo": 6602,
+    "practica": "IgE BC - LCR - INMUNOGLOBULINA E Baja\nConcentración en Liquido Cefalo Raquideo.",
+    "ub": 12
+},
+{
+    "codigo": 6606,
+    "practica": "IgE ESPECIFICA - INMUNOGLOBULINA E ESPECIFICA.",
+    "ub": 13
+},
+{
+    "codigo": 6614,
+    "practica": "IgE RAST - INMUNOGLOBULINA E - para antibióticos (incluye Penicilinas)",
+    "ub": 20
+},
+{
+    "codigo": 6634,
+    "practica": "IgG - INMUNOGLOBULINA G, ASOCIADA A PLAQUETAS.",
+    "ub": "-"
+},
+{
+    "codigo": 6640,
+    "practica": "IgG - INMUNOGLOBULINA G, Indice de (LCR/Serica)",
+    "ub": 28
+},
+{
+    "codigo": 6648,
+    "practica": "IgG - LCR - INMUNOGLOBULINA G en Liquido Cefalo Raquideo.",
+    "ub": 20
+},
+{
+    "codigo": 6652,
+    "practica": "IgG - INMUNOGLUBULINA G, INTOLERANCIA ALIMENTICIA (c/u)",
+    "ub": 10
+},
+{
+    "codigo": 6657,
+    "practica": "IgG - INMUNOGLOBULINA G, Subclases (Modulo 4 Subclases)",
+    "ub": 110
+},
+{
+    "codigo": 6666,
+    "practica": "IgM - INMUNOGLOBULINA M, ASOCIADA A PLAQUETAS.",
+    "ub": "-"
+},
+{
+    "codigo": 6674,
+    "practica": "IgM, LCR - INMUNOGLOBULINA M, en Liquido Cefalo Raquideo.",
+    "ub": 12
+},
+{
+    "codigo": 6676,
+    "practica": "IgM - INMUNOGLOBULINA M Baja Concentración, en saliva",
+    "ub": 12
+},
+{
+    "codigo": 6691,
+    "practica": "IL2-R - CD25 receptor soluble",
+    "ub": "-"
+},
+{
+    "codigo": 6700,
+    "practica": "INDICAN",
+    "ub": 5
+},
+{
+    "codigo": 6708,
+    "practica": "INDICE de INSULINO RESISTENCIA",
+    "ub": 13.5
+},
+{
+    "codigo": 6711,
+    "practica": "INDICE de FUNCION RENAL",
+    "ub": 3
+},
+{
+    "codigo": 6713,
+    "practica": "INDICE de LESION RENAL (ABUMINA / CREATININA) -\nurinario",
+    "ub": 15.5
+},
+{
+    "codigo": 6714,
+    "practica": "INDICE de LESION RENAL (PROTEINAS / CREATININA) -\nurinario",
+    "ub": 4.5
+},
+{
+    "codigo": 6717,
+    "practica": "INDICE de PRODUCCION RETICULOCITARIA",
+    "ub": 5
+},
+{
+    "codigo": 6720,
+    "practica": "INDICE de RESORCION OSEA",
+    "ub": 5
+},
+{
+    "codigo": 6722,
+    "practica": "INDICE de RIESGO CARDIOVACULAR",
+    "ub": 2
+},
+{
+    "codigo": 6725,
+    "practica": "INFLUENZA A, ANTIGENO (Ag.)",
+    "ub": 20
+},
+{
+    "codigo": 6728,
+    "practica": "INFLUENZA A, ANTIGENOS (Ags.) - Material: hisopado nasal / faringeo / aspirados - PCR",
+    "ub": 95
+},
+{
+    "codigo": 6730,
+    "practica": "INFLUENZA A, ANTIGENOS (Ags.) Suptipo H1N1 -\nMaterial: hisopado nasal / faringeo / aspirados",
+    "ub": 20
+},
+{
+    "codigo": 6732,
+    "practica": "INFLUENZA A, ANTIGENOS (Ags.) Suptipo H1N1 -\nMaterial: hisopado nasal / faringeo / aspirados - PCR",
+    "ub": 95
+},
+{
+    "codigo": 6734,
+    "practica": "INFLUENZA A, Ac. IgG Anti-",
+    "ub": 16
+},
+{
+    "codigo": 6742,
+    "practica": "INFLUENZA A, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 6751,
+    "practica": "INFLUENZA B, Ac. IgG Anti-",
+    "ub": 16
+},
+{
+    "codigo": 6760,
+    "practica": "INFLUENZA B, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 6768,
+    "practica": "INFLUENZA B, ANTIGENO (Ag.)",
+    "ub": 20
+},
+{
+    "codigo": 6788,
+    "practica": "INHIBINA B - serica",
+    "ub": 100
+},
+{
+    "codigo": 6819,
+    "practica": "INMUNOCOMPLEJOS CIRCULANTES (CIC)",
+    "ub": 30
+},
+{
+    "codigo": 6848,
+    "practica": "INMUNOFIJACION - LCR",
+    "ub": 50
+},
+{
+    "codigo": 6850,
+    "practica": "INMUNOFIJACION - serica",
+    "ub": 50
+},
+{
+    "codigo": 6852,
+    "practica": "INMUNOFIJACION - urinaria",
+    "ub": 50
+},
+{
+    "codigo": 6856,
+    "practica": "INMUNOMARCACION EN SANGRE PERIFERICA.",
+    "ub": "-"
+},
+{
+    "codigo": 6862,
+    "practica": "INSULINA, Ac. Anti- (Ac. Anti- IAA)",
+    "ub": 35
+},
+{
+    "codigo": 6871,
+    "practica": "INTERFERON GAMMA",
+    "ub": 100
+},
+{
+    "codigo": 6879,
+    "practica": "INTERLEUQUINA (c/u)",
+    "ub": 100
+},
+{
+    "codigo": 6888,
+    "practica": "IODO-AZIDA Prueba de",
+    "ub": 9
+},
+{
+    "codigo": 6896,
+    "practica": "IONOGRAMA - materia fecal",
+    "ub": 7
+},
+{
+    "codigo": 6898,
+    "practica": "IRREGULARES ANTICUERPOS, Identificación.",
+    "ub": 15
+},
+{
+    "codigo": 6905,
+    "practica": "ISLOTE LANGERHANS PANCREATICOS, Ac. Anti- (ICA)",
+    "ub": 25
+},
+{
+    "codigo": 6912,
+    "practica": "JO-1, Ac. Anti-",
+    "ub": 25
+},
+{
+    "codigo": 6919,
+    "practica": "KETAMINA - urinaria",
+    "ub": 50
+},
+{
+    "codigo": 6925,
+    "practica": "KREMER, TEST DE",
+    "ub": 25
+},
+{
+    "codigo": 6930,
+    "practica": "LA, Ac. Anti- (LA/SSB)",
+    "ub": 15
+},
+{
+    "codigo": 6932,
+    "practica": "LACTOCRITO",
+    "ub": 8
+},
+{
+    "codigo": 6936,
+    "practica": "LACTOFERRINA.",
+    "ub": 14
+},
+{
+    "codigo": 6939,
+    "practica": "LACTOSA, TOLERANCIA A LA",
+    "ub": 7.5
+},
+{
+    "codigo": 6947,
+    "practica": "LC-1, Ac. Anti-",
+    "ub": 20
+},
+{
+    "codigo": 6956,
+    "practica": "LEGIONELLA PNEUMOPHILA, Ac. IgG Anti-",
+    "ub": 20
+},
+{
+    "codigo": 6958,
+    "practica": "LEGIONELLA PNEUMOPHILA, Ac. IgM Anti-",
+    "ub": 20
+},
+{
+    "codigo": 6970,
+    "practica": "LEGIONELLA PNEUMOPHILA, Ag.",
+    "ub": "-"
+},
+{
+    "codigo": 6975,
+    "practica": "LEISHMANIA, Ac. Anti-",
+    "ub": 25
+},
+{
+    "codigo": 6978,
+    "practica": "LEISHMANIA - PCR",
+    "ub": 95
+},
+{
+    "codigo": 6982,
+    "practica": "LEPTINA",
+    "ub": 50
+},
+{
+    "codigo": 6990,
+    "practica": "LEPTOSPIRA, Ac. Anti- (ELISA / IFI)",
+    "ub": 19
+},
+{
+    "codigo": 6999,
+    "practica": "LEPTOSPIRA, Ac. Anti- (HAI / macroaglutinación)",
+    "ub": 20
+},
+{
+    "codigo": 7007,
+    "practica": "LEPTOSPIRA, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 7010,
+    "practica": "LEPTOSPIRA (Confirmatorio - Microaglutinación)",
+    "ub": 28
+},
+{
+    "codigo": 7013,
+    "practica": "LEPTOSPIRA (cultivo)",
+    "ub": 20
+},
+{
+    "codigo": 7027,
+    "practica": "LEUCINA - serica (AA) (incluida en el perfil de AA en diferentes matrices - Cromatografia de AA)",
+    "ub": "-"
+},
+{
+    "codigo": 7059,
+    "practica": "LEVADURAS SENSIBILIDAD - SCREENING",
+    "ub": "-"
+},
+{
+    "codigo": 7064,
+    "practica": "LEVADURAS TIPIFICACION",
+    "ub": 30
+},
+{
+    "codigo": 7076,
+    "practica": "LEVODOPA - serica",
+    "ub": 28
+},
+{
+    "codigo": 7079,
+    "practica": "LEVODOPA - urinaria",
+    "ub": 28
+},
+{
+    "codigo": 7093,
+    "practica": "LEVULOSA - semen",
+    "ub": "-"
+},
+{
+    "codigo": 7096,
+    "practica": "LEVULOSA - serica",
+    "ub": "-"
+},
+{
+    "codigo": 7099,
+    "practica": "LEVULOSA - urinaria",
+    "ub": "-"
+},
+{
+    "codigo": 7119,
+    "practica": "LINDANE",
+    "ub": 60
+},
+{
+    "codigo": 7127,
+    "practica": "LINFOCITARIO, CULTIVO MIXTO",
+    "ub": "-"
+},
+{
+    "codigo": 7153,
+    "practica": "LINFOCITOS PERIFERICOS \"SRY\"",
+    "ub": "-"
+},
+{
+    "codigo": 7170,
+    "practica": "LIPASA - urinaria (Lipasuria)",
+    "ub": 4
+},
+{
+    "codigo": 7187,
+    "practica": "LIPOPROTEINA a - Lp(a)",
+    "ub": 20
+},
+{
+    "codigo": 7210,
+    "practica": "LISOZIMA",
+    "ub": 20
+},
+{
+    "codigo": 7230,
+    "practica": "LISTERIA, CULTIVO",
+    "ub": 12
+},
+{
+    "codigo": 7240,
+    "practica": "LISTERIA, Ac. IgM Anti-",
+    "ub": 12
+},
+{
+    "codigo": 7242,
+    "practica": "LISTERIA - PCR",
+    "ub": 80
+},
+{
+    "codigo": 7260,
+    "practica": "LIXITOL",
+    "ub": 60
+},
+{
+    "codigo": 7262,
+    "practica": "LKM, Ac. Anti-",
+    "ub": 20
+},
+{
+    "codigo": 7270,
+    "practica": "LYNCH, SINDROME DE - GEN MLH1 (MYH)",
+    "ub": 2300
+},
+{
+    "codigo": 7271,
+    "practica": "LYNCH, SINDROME DE - GEN MSH2 SECUENCIACION COMPLETA (M2Y)",
+    "ub": 1600
+},
+{
+    "codigo": 7273,
+    "practica": "LYNCH, SINDROME DE - GEN MSH6 (M6Y)",
+    "ub": 1800
+},
+{
+    "codigo": 7274,
+    "practica": "LYNCH, SINDROME DE - GEN PMS2 (M3Y)",
+    "ub": 1850
+},
+{
+    "codigo": 7275,
+    "practica": "LYNCH, SINDROME DE - GEN (MLH1, MSH2, MSH6, PMS2)",
+    "ub": 5700
+},
+{
+    "codigo": 7278,
+    "practica": "MACROAMILASA",
+    "ub": 25
+},
+{
+    "codigo": 7284,
+    "practica": "MACRO CK",
+    "ub": 14
+},
+{
+    "codigo": 7289,
+    "practica": "MACROPROLACTINEMIA",
+    "ub": 30
+},
+{
+    "codigo": 7300,
+    "practica": "MAGNESIO - eritrocitario",
+    "ub": 20
+},
+{
+    "codigo": 7304,
+    "practica": "MAGNESIO - pelo",
+    "ub": 30
+},
+{
+    "codigo": 7315,
+    "practica": "MAG-SGPG, Ac. IgM",
+    "ub": 120
+},
+{
+    "codigo": 7319,
+    "practica": "MALATION",
+    "ub": 60
+},
+{
+    "codigo": 7324,
+    "practica": "MALON DIALDEHIDO - TBARS",
+    "ub": 19
+},
+{
+    "codigo": 7338,
+    "practica": "MANGANESO - pelo",
+    "ub": 30
+},
+{
+    "codigo": 7341,
+    "practica": "MANGANESO - serico",
+    "ub": 20
+},
+{
+    "codigo": 7343,
+    "practica": "MANGANESO - urinario",
+    "ub": 20
+},
+{
+    "codigo": 7349,
+    "practica": "MAO plaquetario",
+    "ub": 60
+},
+{
+    "codigo": 7353,
+    "practica": "MARCADORES PRONOSTICOS de LLC (Citometria de flujo)",
+    "ub": 154
+},
+{
+    "codigo": 7366,
+    "practica": "MEMBRANA BASAL, Ac. Anti-",
+    "ub": 8
+},
+{
+    "codigo": 7375,
+    "practica": "MERCURIO - pelo (Hg-pelo)",
+    "ub": 35
+},
+{
+    "codigo": 7392,
+    "practica": "METACUALONA",
+    "ub": 24
+},
+{
+    "codigo": 7401,
+    "practica": "METADONA (FPIA)",
+    "ub": 22
+},
+{
+    "codigo": 7409,
+    "practica": "METAHEMOGLOBINA",
+    "ub": 10
+},
+{
+    "codigo": 7426,
+    "practica": "METANEFRINAS LIBRES - plasmaticas",
+    "ub": 25
+},
+{
+    "codigo": 7435,
+    "practica": "METANOL - sangre",
+    "ub": 25
+},
+{
+    "codigo": 7439,
+    "practica": "METAPNEUMOVIRUS HUMANO, Ag. (hMPV)",
+    "ub": 40
+},
+{
+    "codigo": 7440,
+    "practica": "METAPNEUMOVIRUS HUMANO, Ag. (hMPV) - PCR",
+    "ub": 95
+},
+{
+    "codigo": 7443,
+    "practica": "METIL ETIL CETONA",
+    "ub": 25
+},
+{
+    "codigo": 7449,
+    "practica": "METIL PARATHION",
+    "ub": 60
+},
+{
+    "codigo": 7454,
+    "practica": "METIL-TRITION",
+    "ub": 60
+},
+{
+    "codigo": 7460,
+    "practica": "METILENTETRAHIDROFOLATO REDUCTASA (MTHRT)- PCR",
+    "ub": 75
+},
+{
+    "codigo": 7469,
+    "practica": "METILNICOTINAMIDA",
+    "ub": "-"
+},
+{
+    "codigo": 7477,
+    "practica": "METIONINA - PRUEBA DE SOBRECARGA (dos\ndeterminaciones)",
+    "ub": 40
+},
+{
+    "codigo": 7486,
+    "practica": "METOTREXATO",
+    "ub": 40
+},
+{
+    "codigo": 7489,
+    "practica": "MICOLOGIA, CULTIVO DE HONGOS PRODUCTORES DE MICOSIS PROFUNDAS O SISTEMICAS.",
+    "ub": 15
+},
+{
+    "codigo": 7490,
+    "practica": "MICOLOGIA, IDENTIFICACION DE HONGOS PRODUCTORES DE MICOSIS PROFUNDAS O SISTEMICAS.",
+    "ub": 15
+},
+{
+    "codigo": 7491,
+    "practica": "MICOLOGIA, PRUEBA DE SENSIBILIDAD A ANTIFUNGICOS.",
+    "ub": 15
+},
+{
+    "codigo": 7495,
+    "practica": "MICROAGREGADO PLAQUETARIOS",
+    "ub": "-"
+},
+{
+    "codigo": 7499,
+    "practica": "MICROARRAYS - ESTUDIO GENETICO",
+    "ub": "-"
+},
+{
+    "codigo": 7503,
+    "practica": "MICROGLOBULINA BETA 2",
+    "ub": 18
+},
+{
+    "codigo": 7520,
+    "practica": "MICROSPORIDIA INVESTIGACION",
+    "ub": 15
+},
+{
+    "codigo": 7527,
+    "practica": "MIELOPEROXIDASA, Ac. Ant- (Inmunológica)",
+    "ub": 70
+},
+{
+    "codigo": 7529,
+    "practica": "MIELOPEROXIDASA, (Citoquimica)",
+    "ub": 15
+},
+{
+    "codigo": 7537,
+    "practica": "MIOCARDIO, Ac. Anti-",
+    "ub": 8
+},
+{
+    "codigo": 7546,
+    "practica": "MIOGLOBINA - serica",
+    "ub": 13
+},
+{
+    "codigo": 7550,
+    "practica": "MIOGLOBINA - urinaria",
+    "ub": 15
+},
+{
+    "codigo": 7571,
+    "practica": "MITOCONDRIAL M2, Ac. Anti- (AMA M2)",
+    "ub": 27
+},
+{
+    "codigo": 7580,
+    "practica": "MONOSACARIDOS (Cromatografia)",
+    "ub": 25
+},
+{
+    "codigo": 7597,
+    "practica": "MOPEG (3-METOXI, 4-HIDROXI- FENIL ETIL GLICOL)",
+    "ub": 20
+},
+{
+    "codigo": 7606,
+    "practica": "MUCOPOLISACARIDOS - urinarios (cuantitativo)",
+    "ub": 65
+},
+{
+    "codigo": 7614,
+    "practica": "MUCOSA GASTRICA, Ac. Anti- (CELULAS PARIETALES Ac. Anti- (IFI)",
+    "ub": 19
+},
+{
+    "codigo": 7621,
+    "practica": "MUCOSEMEN CRUZADO (metodo microscópico)",
+    "ub": 26
+},
+{
+    "codigo": 7631,
+    "practica": "MUSCULO ESTRIADO, Ac. Anti-",
+    "ub": 12
+},
+{
+    "codigo": 7636,
+    "practica": "MuSK, Ac. Anti-",
+    "ub": 220
+},
+{
+    "codigo": 7640,
+    "practica": "MUTACIONES EN EL DOMINIO TK DEL TRANSCRIPTO BCR-AB",
+    "ub": 500
+},
+{
+    "codigo": 7648,
+    "practica": "MYCOAVIUM COMPLEX - PCR",
+    "ub": "-"
+},
+{
+    "codigo": 7657,
+    "practica": "MYCOBACTERIA Sp, HEMOCULTIVO",
+    "ub": 17
+},
+{
+    "codigo": 7660,
+    "practica": "MYCOBACTERIA ATIPICA - PCR",
+    "ub": 90
+},
+{
+    "codigo": 7669,
+    "practica": "MYCOBACTERIUM TUBERCULOSIS, DNA - PCR",
+    "ub": 70
+},
+{
+    "codigo": 7674,
+    "practica": "MYCOBACTERIUM TUBERCULOSIS, en LCR",
+    "ub": "-"
+},
+{
+    "codigo": 7691,
+    "practica": "MYCOPLASMA - UREAPLASMA, Ac. Anti-",
+    "ub": 35
+},
+{
+    "codigo": 7700,
+    "practica": "MYCOPLASMA - UREAPLASMA, CULTIVO",
+    "ub": 25
+},
+{
+    "codigo": 7708,
+    "practica": "MYCOPLASMA HOMINIS, CULTIVO - Aislamiento",
+    "ub": 25
+},
+{
+    "codigo": 7717,
+    "practica": "MYCOPLASMA PNEUMONIAE, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 7725,
+    "practica": "MYCOPLASMA PNEUMONIAE, ANTIGENO (Ag)",
+    "ub": 20
+},
+{
+    "codigo": 7734,
+    "practica": "MYCOPLASMA PNEUMONIAE, cultivo",
+    "ub": "-"
+},
+{
+    "codigo": 7736,
+    "practica": "MYCOPLASMA PNEUMONIAE - PCR",
+    "ub": 90
+},
+{
+    "codigo": 7742,
+    "practica": "N,N-DIMETILTRIPTAMINA",
+    "ub": 24
+},
+{
+    "codigo": 7751,
+    "practica": "NEONATAL, 17-HIDROXIPROGESTERONA (17-HO-Pg-\nNeo)",
+    "ub": 9
+},
+{
+    "codigo": 7759,
+    "practica": "NEONATAL, BIOTINIDASA",
+    "ub": 7
+},
+{
+    "codigo": 7768,
+    "practica": "NEONATAL, GALACTOSEMIA",
+    "ub": 7
+},
+{
+    "codigo": 7773,
+    "practica": "NEONATAL, LEUCINA",
+    "ub": 12
+},
+{
+    "codigo": 7775,
+    "practica": "NEONATAL SCREENENG AMPLIADO POR ESPECTROMETRIA DE MASA EN TANDEM",
+    "ub": "-"
+},
+{
+    "codigo": 7777,
+    "practica": "NEONATAL, T.I.R. (TRIPSINA INMUNOREATIVA)",
+    "ub": 8
+},
+{
+    "codigo": 7785,
+    "practica": "NEONATAL, T.S.H.",
+    "ub": 7
+},
+{
+    "codigo": 7794,
+    "practica": "NEUMOCOCO, Ac. Anti-",
+    "ub": 100
+},
+{
+    "codigo": 7802,
+    "practica": "NEURON SPECIFIC ENOLASE - NSE",
+    "ub": 39
+},
+{
+    "codigo": 7810,
+    "practica": "NEUTROFILOS, ACTIVIDAD FAGOCITARIA",
+    "ub": "-"
+},
+{
+    "codigo": 7828,
+    "practica": "NIQUEL URINARIO (Ni urinario)",
+    "ub": 20
+},
+{
+    "codigo": 7836,
+    "practica": "NITROGENO NO PROTEICO",
+    "ub": 3
+},
+{
+    "codigo": 7840,
+    "practica": "NMDA, Ac.  IgG Anti- RECEPTOR - LCR",
+    "ub": 80
+},
+{
+    "codigo": 7841,
+    "practica": "NMDA, Ac.  IgG Anti- RECEPTOR - sangre",
+    "ub": 80
+},
+{
+    "codigo": 7845,
+    "practica": "NORMETANEFRINA - urinaria",
+    "ub": 25
+},
+{
+    "codigo": 7849,
+    "practica": "NOROVIRUS",
+    "ub": 111
+},
+{
+    "codigo": 7853,
+    "practica": "NORTRIPTILINA - serica",
+    "ub": 19
+},
+{
+    "codigo": 7862,
+    "practica": "N TELOPEPTIDOS - COLAGENO TIPO I (NTX)",
+    "ub": 30
+},
+{
+    "codigo": 7871,
+    "practica": "NUCLEOLO, Ac. Anti-",
+    "ub": 15
+},
+{
+    "codigo": 7882,
+    "practica": "OPIACEOS - CONFIRMATORIO",
+    "ub": 120
+},
+{
+    "codigo": 7905,
+    "practica": "ORTO CRESOL (2-metilfenol)",
+    "ub": 20
+},
+{
+    "codigo": 7913,
+    "practica": "ORTO METIL BUFOTENINA",
+    "ub": 24
+},
+{
+    "codigo": 7919,
+    "practica": "ORTO,O,O - TIETILFOSFOROTOATO",
+    "ub": 60
+},
+{
+    "codigo": 7926,
+    "practica": "OSMOLALIDAD - urinaria",
+    "ub": 5
+},
+{
+    "codigo": 7939,
+    "practica": "OSTEOCALCINA",
+    "ub": 25
+},
+{
+    "codigo": 7947,
+    "practica": "OVARIO, Ac. Anti-",
+    "ub": 80
+},
+{
+    "codigo": 7964,
+    "practica": "OXICODON A - urinaria",
+    "ub": 40
+},
+{
+    "codigo": 7973,
+    "practica": "p53 Ac.",
+    "ub": "-"
+},
+{
+    "codigo": 7982,
+    "practica": "p53 mutante",
+    "ub": "-"
+},
+{
+    "codigo": 7999,
+    "practica": "PANEL HEPATICO INMUNOLOGICO",
+    "ub": 150
+},
+{
+    "codigo": 8009,
+    "practica": "PAPILOMA VIRUS HUMANO - HPV (Carga viral)",
+    "ub": 160
+},
+{
+    "codigo": 8011,
+    "practica": "PAPILOMA VIRUS HUMANO - HPV (Genotipificación - PCR + Hibridización)",
+    "ub": 110
+},
+{
+    "codigo": 8018,
+    "practica": "PAPP-A (PROTEINA A PLASMATICA ASOCIADA A EMBARAZO)",
+    "ub": 40
+},
+{
+    "codigo": 8024,
+    "practica": "PARA AMINOFENOL",
+    "ub": "-"
+},
+{
+    "codigo": 8110,
+    "practica": "PARACOCCIDIOIDES BRASILIENSIS, Ac. IgG Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8115,
+    "practica": "PARACOCCIDIOIDES BRASILIENSIS, Ac. IgM Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8127,
+    "practica": "PARACOCCIDIOIDES SPP, Ac. Anti- Totales",
+    "ub": 29
+},
+{
+    "codigo": 8135,
+    "practica": "PARAINFLUENZA I, Ac. Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8137,
+    "practica": "PARAINFLUENZA I, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8139,
+    "practica": "PARAINFLUENZA I, Ag.",
+    "ub": 20
+},
+{
+    "codigo": 8142,
+    "practica": "PARAINFLUENZA II, Ac. Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8144,
+    "practica": "PARAINFLUENZA II, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8146,
+    "practica": "PARAINFLUENZA II, Ag.",
+    "ub": 20
+},
+{
+    "codigo": 8149,
+    "practica": "PARAINFLUENZA III, Ac. Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8151,
+    "practica": "PARAINFLUENZA III, Ac. IgM Anti-",
+    "ub": 18
+},
+{
+    "codigo": 8153,
+    "practica": "PARAINFLUENZA III, Ag.",
+    "ub": 20
+},
+{
+    "codigo": 8156,
+    "practica": "PARANITROFENOL",
+    "ub": 20
+},
+{
+    "codigo": 8158,
+    "practica": "PARASITOS - biopsias o liquidos de punción",
+    "ub": 25
+},
+{
+    "codigo": 8161,
+    "practica": "PARATHORMONA (PTH) (MOLECULA MEDIA)",
+    "ub": 19
+},
+{
+    "codigo": 8170,
+    "practica": "PARATION",
+    "ub": 60
+},
+{
+    "codigo": 8178,
+    "practica": "PAROTIDITIS, Ac. IgG Anti-",
+    "ub": 15
+},
+{
+    "codigo": 8187,
+    "practica": "PAROTIDITIS, Ac. IgM Anti-",
+    "ub": 16
+},
+{
+    "codigo": 8195,
+    "practica": "PAROTIDITIS, Ac. especif. por FC",
+    "ub": 20
+},
+{
+    "codigo": 8204,
+    "practica": "PAROTIDITIS, Ac. solubles",
+    "ub": "-"
+},
+{
+    "codigo": 8212,
+    "practica": "PAROTIDITIS, Ag.",
+    "ub": "-"
+},
+{
+    "codigo": 8221,
+    "practica": "PAROTIDITIS, Ag. en LCR",
+    "ub": "-"
+},
+{
+    "codigo": 8229,
+    "practica": "PARVOVIRUS, Ac. IgG Anti-",
+    "ub": 40
+},
+{
+    "codigo": 8238,
+    "practica": "PARVOVIRUS, Ac. IgM Anti-",
+    "ub": 45
+},
+{
+    "codigo": 8241,
+    "practica": "PARVOVIRUS B19 - PCR",
+    "ub": 90
+},
+{
+    "codigo": 8250,
+    "practica": "PENFIGOIDE Ac. Anti- (MEMBRANA BASAL EN PIEL Ac.\nAnti-)",
+    "ub": 60
+},
+{
+    "codigo": 8272,
+    "practica": "PENTACLOROFENOL",
+    "ub": 18
+},
+{
+    "codigo": 8281,
+    "practica": "PEPTIDO C",
+    "ub": 18
+},
+{
+    "codigo": 8284,
+    "practica": "PEPTIDO CITRULINADO CICLICO - Ac. Anti- IgG (Ac.\nAnti- CCP / PCC)",
+    "ub": 50
+},
+{
+    "codigo": 8286,
+    "practica": "PEPTIDO INTESTINAL VASOACTIVO (VIP)",
+    "ub": 220
+},
+{
+    "codigo": 8289,
+    "practica": "PEPTIDO PROCOLAGENO",
+    "ub": 18
+},
+{
+    "codigo": 8298,
+    "practica": "PERFIL LIPIDICO",
+    "ub": 11
+},
+{
+    "codigo": 8304,
+    "practica": "PERFIL MINERAL - en cabello",
+    "ub": 200
+},
+{
+    "codigo": 8306,
+    "practica": "PERFIL MINERAL - en orina",
+    "ub": 200
+},
+{
+    "codigo": 8315,
+    "practica": "PEROXIDASA TIROIDEO, Ac. Anti- (ATPO / TPO)",
+    "ub": 12
+},
+{
+    "codigo": 8327,
+    "practica": "PESTICIDAS NITROGENADOS - c/u",
+    "ub": 60
+},
+{
+    "codigo": 8332,
+    "practica": "PESTICIDAS ORGANOCLORADOS (plaguicidas),\nurinarios",
+    "ub": 60
+},
+{
+    "codigo": 8337,
+    "practica": "PESTICIDAS ORGANOFOSFORADOS (plaguicidas -\nparathion) - plasmaticos",
+    "ub": 60
+},
+{
+    "codigo": 8348,
+    "practica": "PIRIDINOLINA",
+    "ub": 28
+},
+{
+    "codigo": 8358,
+    "practica": "PLAQUETARIA ADHESIVIDAD",
+    "ub": 20
+},
+{
+    "codigo": 8366,
+    "practica": "PLAQUETARIA AGREGACION (con 6 inductores)",
+    "ub": 18
+},
+{
+    "codigo": 8375,
+    "practica": "PLAQUETAS, Ac. Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8379,
+    "practica": "PLASMA RICO EN PLAQUETAS, PREPARACION DE (PRP)",
+    "ub": 120
+},
+{
+    "codigo": 8383,
+    "practica": "PLASMINOGENO",
+    "ub": 38
+},
+{
+    "codigo": 8385,
+    "practica": "PLASMINOGENO, ACTIVADOR TISULAR de - t-PA\n(Biológico-Inmunológico)              : t-PA",
+    "ub": 75
+},
+{
+    "codigo": 8387,
+    "practica": "PLASMINOGENO, INHIBIDOR del ACTIVADOR TISULAR\ndel (PAI - AIP) (Molecular)            : PAI  4G/5G",
+    "ub": 90
+},
+{
+    "codigo": 8393,
+    "practica": "PLASMODIUM SP, Antigeno.",
+    "ub": 16
+},
+{
+    "codigo": 8397,
+    "practica": "PLATA (Ag) - serica",
+    "ub": 20
+},
+{
+    "codigo": 8400,
+    "practica": "PLATA (Ag) - urinaria",
+    "ub": 20
+},
+{
+    "codigo": 8409,
+    "practica": "PLOMO (Pb) - pelo",
+    "ub": 30
+},
+{
+    "codigo": 8418,
+    "practica": "PM-1, Ac. Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8426,
+    "practica": "PNEUMOCYSTIS CARINII, IFD",
+    "ub": 15
+},
+{
+    "codigo": 8435,
+    "practica": "PODER BACTERICIDA DEL SUERO (PBS)",
+    "ub": 20
+},
+{
+    "codigo": 8440,
+    "practica": "PODER INHIBITORIO DEL SUERO (P.I.S.)",
+    "ub": 20
+},
+{
+    "codigo": 8446,
+    "practica": "POLICLOROBIFENILOS",
+    "ub": 45
+},
+{
+    "codigo": 8450,
+    "practica": "POLIMORFISMO IL 28B",
+    "ub": 311
+},
+{
+    "codigo": 8460,
+    "practica": "POLIMORFONUCLEARES, Quimiotaxis",
+    "ub": 35
+},
+{
+    "codigo": 8463,
+    "practica": "POLIOMAVIRUS BK, Carga viral - sangre u orina",
+    "ub": 150
+},
+{
+    "codigo": 8464,
+    "practica": "POLIOMAVIRUS BK, PCR - sangre u orina",
+    "ub": 110
+},
+{
+    "codigo": 8466,
+    "practica": "POLIOMAVIRUS JC, Carga viral - sangre u orina",
+    "ub": 150
+},
+{
+    "codigo": 8467,
+    "practica": "POLIOMAVIRUS JC,  PCR - LCR",
+    "ub": 106
+},
+{
+    "codigo": 8469,
+    "practica": "POLIQUISTOSIS RENAL - PCR",
+    "ub": "-"
+},
+{
+    "codigo": 8486,
+    "practica": "PORFIRINAS - sericas",
+    "ub": 12
+},
+{
+    "codigo": 8489,
+    "practica": "PORFIRINAS, INDICE de - plasmaticas",
+    "ub": 25
+},
+{
+    "codigo": 8493,
+    "practica": "PORFIRINAS TOTALES - eritrocitarias",
+    "ub": 15
+},
+{
+    "codigo": 8529,
+    "practica": "PORFOBILINOGENO (Cuantitativo) - urinario",
+    "ub": 18
+},
+{
+    "codigo": 8537,
+    "practica": "POTASIO - eritrocitario",
+    "ub": "-"
+},
+{
+    "codigo": 8546,
+    "practica": "PREALBUMINA",
+    "ub": 10
+},
+{
+    "codigo": 8554,
+    "practica": "Pro BNP - proHORMONA PEPTIDO NATRIURETICO\nCEREBRAL N-Terminal (NT-ProBNP)",
+    "ub": 95
+},
+{
+    "codigo": 8563,
+    "practica": "PROCALCITONINA",
+    "ub": 75
+},
+{
+    "codigo": 8571,
+    "practica": "PROINSULINA - plasmatica",
+    "ub": "-"
+},
+{
+    "codigo": 8580,
+    "practica": "PROGESTERONA 17-HIDROXI (17-OH-Pg)",
+    "ub": 15
+},
+{
+    "codigo": 8584,
+    "practica": "PROMETRYN",
+    "ub": 60
+},
+{
+    "codigo": 8588,
+    "practica": "PROPAZINA",
+    "ub": 60
+},
+{
+    "codigo": 8597,
+    "practica": "PROPOXIFENO - NORPROPOXIFENO",
+    "ub": 23
+},
+{
+    "codigo": 8606,
+    "practica": "PROTEINA BASICA de MIELINA",
+    "ub": 120
+},
+{
+    "codigo": 8614,
+    "practica": "PROTEINA C FUNCIONAL - Cromogenico",
+    "ub": 45
+},
+{
+    "codigo": 8623,
+    "practica": "PROTEINA C REACTIVA - ULTRASENSIBLE (PCRus)",
+    "ub": 12
+},
+{
+    "codigo": 8627,
+    "practica": "PROTEINA del EPIDIDIMO HUMANO 4 (HE4)",
+    "ub": "-"
+},
+{
+    "codigo": 8631,
+    "practica": "PROTEINA S Libre = Inmunoturbidimetrio",
+    "ub": 45
+},
+{
+    "codigo": 8640,
+    "practica": "PROTEINA S Total",
+    "ub": 45
+},
+{
+    "codigo": 8648,
+    "practica": "PROTEINA S Funcional = coagulometrico",
+    "ub": 85
+},
+{
+    "codigo": 8656,
+    "practica": "PROTEINASA 3 (PR3), Ac. Anti-",
+    "ub": 50
+},
+{
+    "codigo": 8682,
+    "practica": "PROTOPORFIRINA ERITROCITARIA LIBRE (FEP), ZINC PROTOPORFIRINA (ZPP o ZP)",
+    "ub": 12
+},
+{
+    "codigo": 8691,
+    "practica": "PROTROMBINA 20.210",
+    "ub": 75
+},
+{
+    "codigo": 8710,
+    "practica": "PSEUDOMONAS, Ac. Anti-",
+    "ub": 70
+},
+{
+    "codigo": 8734,
+    "practica": "QUERATINOCITOS (PIEL) Ac. Anti-",
+    "ub": 90
+},
+{
+    "codigo": 8768,
+    "practica": "QUINIDINA",
+    "ub": 20
+},
+{
+    "codigo": 8780,
+    "practica": "REARREGLO DEL IGH/FGFR3, Estudio para (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 8783,
+    "practica": "REARREGLO DEL IGH/MAF, Estudio para (FISH)",
+    "ub": 410
+},
+{
+    "codigo": 8794,
+    "practica": "REARREGLO DEL TcR (citrometria de flujo)",
+    "ub": 300
+},
+{
+    "codigo": 8800,
+    "practica": "RECEPTOR de FSH, Ac. Anti- (RFSH)",
+    "ub": 120
+},
+{
+    "codigo": 8802,
+    "practica": "RECEPTOR de TSH, Ac. Anti- (TRAB's o TRAB o TBII)",
+    "ub": 40
+},
+{
+    "codigo": 8813,
+    "practica": "RECEPTORES HORMONALES INDICE DE PROLIFERACION",
+    "ub": 50
+},
+{
+    "codigo": 8816,
+    "practica": "RECEPTOR SOLUBLE DE TRANSFERRINA (sTRF)",
+    "ub": 39
+},
+{
+    "codigo": 8819,
+    "practica": "RENINA-ANGIOTENSINA / RENINA ACTIVA",
+    "ub": 18
+},
+{
+    "codigo": 8828,
+    "practica": "RESISTENCIA a la PROTEINA C ACTIVADA",
+    "ub": 35
+},
+{
+    "codigo": 8836,
+    "practica": "RETICULINA, Ac. Anti- (ARA)",
+    "ub": 10
+},
+{
+    "codigo": 8845,
+    "practica": "RETINA, Ac. Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8853,
+    "practica": "Ri (ANNA-2), Ac. Anti- (NEURONAL NUCLEAR-2)",
+    "ub": 100
+},
+{
+    "codigo": 8860,
+    "practica": "RIBOSOMAL, Ac. Anti- Proteina P (Anti-Riv P)",
+    "ub": 45
+},
+{
+    "codigo": 8870,
+    "practica": "RICKETTSIAS PROWAZEKII, Ac. IgG Anti-",
+    "ub": 45
+},
+{
+    "codigo": 8874,
+    "practica": "RICKETTSIAS TYPHI, Ac. IgG Anti-",
+    "ub": 45
+},
+{
+    "codigo": 8878,
+    "practica": "RINOVIRUS, Ag.",
+    "ub": 22
+},
+{
+    "codigo": 8882,
+    "practica": "RISPERIDONA",
+    "ub": 60
+},
+{
+    "codigo": 8888,
+    "practica": "RNA, Ac. Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 8896,
+    "practica": "RNP, Ac. Anti- (RIBONUCLEOPROTEINAS)",
+    "ub": 16
+},
+{
+    "codigo": 8905,
+    "practica": "Ro, Ac. Anti- (Ro/SSA)",
+    "ub": 15
+},
+{
+    "codigo": 8918,
+    "practica": "ROSA de BENGALA",
+    "ub": 8
+},
+{
+    "codigo": 8930,
+    "practica": "ROTAVIRUS - AG -AC- MN (ELISA)",
+    "ub": 32
+},
+{
+    "codigo": 8934,
+    "practica": "ROTAVIRUS - AcC-",
+    "ub": 40
+},
+{
+    "codigo": 8939,
+    "practica": "ROTAVIRUS, Ag.",
+    "ub": 22
+},
+{
+    "codigo": 8947,
+    "practica": "SACAROSA",
+    "ub": 12
+},
+{
+    "codigo": 8954,
+    "practica": "SACCHAROMYSES CEREVISIAE, Ac. Anti- IgA (ASCA)",
+    "ub": 50
+},
+{
+    "codigo": 8956,
+    "practica": "SACCHAROMYSES CEREVISIAE, Ac. Anti- IgG (ASCA)",
+    "ub": 50
+},
+{
+    "codigo": 8964,
+    "practica": "SALIVA, Ex. Fisico-Quimico",
+    "ub": "-"
+},
+{
+    "codigo": 8977,
+    "practica": "SANGRIA, TIEMPO DE - Metodo de Ivy",
+    "ub": 8
+},
+{
+    "codigo": 8982,
+    "practica": "SARAMPION, Ac. IgG Anti-",
+    "ub": 15
+},
+{
+    "codigo": 8990,
+    "practica": "SARAMPION, Ac. IgM Anti-",
+    "ub": 16
+},
+{
+    "codigo": 8999,
+    "practica": "SCLERODERMIA - SCL 70, Ac. Anti-",
+    "ub": 20
+},
+{
+    "codigo": 9007,
+    "practica": "SCORE de MOCO",
+    "ub": 10
+},
+{
+    "codigo": 9016,
+    "practica": "SELENIO (AA) - serico",
+    "ub": 20
+},
+{
+    "codigo": 9019,
+    "practica": "SELENIO - urinario",
+    "ub": 20
+},
+{
+    "codigo": 9026,
+    "practica": "SENSIBILIDAD ALIMENTARIA, PANEL de Ac. IgG Anti-",
+    "ub": 80
+},
+{
+    "codigo": 9030,
+    "practica": "SERINA - plasmatica",
+    "ub": 50
+},
+{
+    "codigo": 9032,
+    "practica": "SERINA - plasmatica - (PANEO COMPLETO)",
+    "ub": 220
+},
+{
+    "codigo": 9039,
+    "practica": "SEROTONINA, GEN TRANSPORTADOR de",
+    "ub": 97
+},
+{
+    "codigo": 9041,
+    "practica": "SEROTONINA - plaquetaria",
+    "ub": 120
+},
+{
+    "codigo": 9045,
+    "practica": "SEROTONINA - urinaria",
+    "ub": 24
+},
+{
+    "codigo": 9054,
+    "practica": "SIFILIS (ELISA)",
+    "ub": "-"
+},
+{
+    "codigo": 9055,
+    "practica": "SIFILIS (ELISA RECOMBINANTE)",
+    "ub": "-"
+},
+{
+    "codigo": 9058,
+    "practica": "SILICIO - esputo",
+    "ub": 20
+},
+{
+    "codigo": 9067,
+    "practica": "SIMANZINA",
+    "ub": 60
+},
+{
+    "codigo": 9076,
+    "practica": "SINCICIAL RESPIRATORIO, Ac. IgG Anti-",
+    "ub": 17
+},
+{
+    "codigo": 9084,
+    "practica": "SINCICIAL RESPIRATORIO, Ac. IgM Anti-",
+    "ub": 17
+},
+{
+    "codigo": 9093,
+    "practica": "SINCICIAL RESPIRATORIO, ANTIGENO (Ag.)",
+    "ub": 22
+},
+{
+    "codigo": 9101,
+    "practica": "SINDROMES LINFOPROLIFERATIVOS -\nFENOTIPIFICACION (Inmunotipificación)",
+    "ub": 300
+},
+{
+    "codigo": 9102,
+    "practica": "SINDROMES MIELOPROLIFERATIVOS - FENOTIPIFICACION.- Jak 2 (JANUS QUINASA 2) -\nmutación: V617F",
+    "ub": 300
+},
+{
+    "codigo": 9103,
+    "practica": "SINDROMES MIELOPROLIFERATIVOS - FENOTIPIFICACION.- Jak 2 (JANUS QUINASA 2) –\nsecuenciación exón 12",
+    "ub": 300
+},
+{
+    "codigo": 9104,
+    "practica": "SINDROMES MIELOPROLIFERATIVOS -\nFENOTIPIFICACION.- MPL (cada mutación)",
+    "ub": 300
+},
+{
+    "codigo": 9105,
+    "practica": "SIROLIMUS, DROGA CITOSTATICA - RAPAMICINA",
+    "ub": 70
+},
+{
+    "codigo": 9110,
+    "practica": "SM, Ac. Anti-",
+    "ub": 15
+},
+{
+    "codigo": 9118,
+    "practica": "SOMATOMEDINA C- IGFB1",
+    "ub": 35
+},
+{
+    "codigo": 9120,
+    "practica": "SOMATOMEDINA - IGFBP-3 - (Insulin Like Growth Factor Bind, Prot 3)",
+    "ub": 60
+},
+{
+    "codigo": 9127,
+    "practica": "SREPTOCOCCUS BETA-HEMOLITICO Grupo B - Prenatal\n(anal/vaginal)",
+    "ub": 18
+},
+{
+    "codigo": 9129,
+    "practica": "STAPHYLOCOCCUS AUREUS METICILINO RESISTENTE -\nPCR o similar",
+    "ub": 90
+},
+{
+    "codigo": 9132,
+    "practica": "STREPTOCOCCUS GRUPO B, Ag. - serico",
+    "ub": 25
+},
+{
+    "codigo": 9135,
+    "practica": "STREPTOCOCCUS GRUPO B, Ag. - urinario",
+    "ub": 25
+},
+{
+    "codigo": 9157,
+    "practica": "STREPTOCOCCUS PNEUMONIAE, Ag. - esputo",
+    "ub": 25
+},
+{
+    "codigo": 9161,
+    "practica": "STREPTOCOCCUS PNEUMONIAE, Ag. - serico",
+    "ub": 25
+},
+{
+    "codigo": 9164,
+    "practica": "STREPTOCOCCUS PNEUMONIAE, Ag. - urinario",
+    "ub": 25
+},
+{
+    "codigo": 9170,
+    "practica": "STREPTOCOCCUS PNEUMONIAE - PCR",
+    "ub": 90
+},
+{
+    "codigo": 9180,
+    "practica": "STREPTOZYME, TEST (ESTREPTOZIMA)",
+    "ub": 15
+},
+{
+    "codigo": 9187,
+    "practica": "SUBUNIDAD Alfa HIPOFISIARIA",
+    "ub": "-"
+},
+{
+    "codigo": 9195,
+    "practica": "SUCCINIL ACETONA - urinaria",
+    "ub": "-"
+},
+{
+    "codigo": 9204,
+    "practica": "SUCCINIL PURINAS",
+    "ub": 150
+},
+{
+    "codigo": 9212,
+    "practica": "SUCROSA, TEST DE",
+    "ub": 10
+},
+{
+    "codigo": 9223,
+    "practica": "SUDOR, TEST CONFIRMATORIO.",
+    "ub": 50
+},
+{
+    "codigo": 9229,
+    "practica": "SULFAHEMOGLOBINA POR COOXIMETRIA",
+    "ub": "-"
+},
+{
+    "codigo": 9238,
+    "practica": "SULFATOS - urinarios",
+    "ub": 15
+},
+{
+    "codigo": 9246,
+    "practica": "SULFOTEP",
+    "ub": 60
+},
+{
+    "codigo": 9255,
+    "practica": "SUPEROXIDO DISMUTASA (S.O.D.) - serica",
+    "ub": 30
+},
+{
+    "codigo": 9265,
+    "practica": "SUSTANCIA INTERCELULAR Ac Anti",
+    "ub": 60
+},
+{
+    "codigo": 9270,
+    "practica": "TAENIA SOLIUM - Ac. Anti- IgG",
+    "ub": 50
+},
+{
+    "codigo": 9281,
+    "practica": "TALASEMIAS, Beta-Mutaciones",
+    "ub": "-"
+},
+{
+    "codigo": 9293,
+    "practica": "TALIO - pelo",
+    "ub": "-"
+},
+{
+    "codigo": 9306,
+    "practica": "Tdt - Citometria de Flujo",
+    "ub": 30
+},
+{
+    "codigo": 9309,
+    "practica": "TERBUITRYN",
+    "ub": 60
+},
+{
+    "codigo": 9311,
+    "practica": "TERBUTHYLAZINA",
+    "ub": 60
+},
+{
+    "codigo": 9314,
+    "practica": "TEST de DESENSIBILIZACION TESTICULAR",
+    "ub": 110
+},
+{
+    "codigo": 9332,
+    "practica": "TEST de NITRO BLUE TETRAZOLIUM con Estimulación (Test - NBTS)",
+    "ub": 34
+},
+{
+    "codigo": 9349,
+    "practica": "TEST DE NITRO BLUE TETRAZOLIUM (Test - NBT)",
+    "ub": 34
+},
+{
+    "codigo": 9358,
+    "practica": "TEST DE NUGENT - serico",
+    "ub": "-"
+},
+{
+    "codigo": 9366,
+    "practica": "TESTOSTERONA DEHIDRO (DHT)",
+    "ub": 25
+},
+{
+    "codigo": 9375,
+    "practica": "TESTOSTERONA LIBRE (To-L)",
+    "ub": 15
+},
+{
+    "codigo": 9383,
+    "practica": "TESTOSTERONA - urinaria",
+    "ub": 15
+},
+{
+    "codigo": 9409,
+    "practica": "TIOCIANATOS - urinarios",
+    "ub": 12
+},
+{
+    "codigo": 9417,
+    "practica": "TIOCIANATOS - sericos",
+    "ub": 12
+},
+{
+    "codigo": 9426,
+    "practica": "TIONACINA",
+    "ub": 60
+},
+{
+    "codigo": 9434,
+    "practica": "TIOSULFATOS - urinarios",
+    "ub": 8
+},
+{
+    "codigo": 9443,
+    "practica": "TIROGLOBULINA (TGs)",
+    "ub": 15
+},
+{
+    "codigo": 9464,
+    "practica": "TIROGLOBULINA - liquido de punción (TG LP)",
+    "ub": "-"
+},
+{
+    "codigo": 9477,
+    "practica": "TIROSINA (Aminoacido - A. Ac.)",
+    "ub": 16
+},
+{
+    "codigo": 9486,
+    "practica": "TITULACION de ANTICUERPO VIII (Met..Biol.)",
+    "ub": "-"
+},
+{
+    "codigo": 9494,
+    "practica": "TOXINA BOTULINICA, Ac.",
+    "ub": "-"
+},
+{
+    "codigo": 9503,
+    "practica": "TOXINA SHIGA o VEROTOXINAS - ESCHERICCIA COLI\n(c/u) - PCR",
+    "ub": 80
+},
+{
+    "codigo": 9511,
+    "practica": "TOXOCARA CANIS, Ac. IgG Anti-",
+    "ub": 26
+},
+{
+    "codigo": 9514,
+    "practica": "TOXOCARA CANIS, Ac. IgM Anti-",
+    "ub": 30
+},
+{
+    "codigo": 9538,
+    "practica": "TOXOIDE TETANICO, Ac. Anti-",
+    "ub": 90
+},
+{
+    "codigo": 9561,
+    "practica": "TOXOPLASMOSIS, Ac. IgA Anti-",
+    "ub": 30
+},
+{
+    "codigo": 9565,
+    "practica": "TOXOPLASMOSIS, Ac. IgA ISAGA Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 9571,
+    "practica": "TOXOPLASMOSIS, Ac. IgG Anti- (ELISA)",
+    "ub": 10
+},
+{
+    "codigo": 9575,
+    "practica": "TOXOPLASMOSIS, Ac. IgG Anti- (Test de avidez)",
+    "ub": 30
+},
+{
+    "codigo": 9580,
+    "practica": "TOXOPLASMOSIS, Ac. IgM Anti- (ELISA)",
+    "ub": 14
+},
+{
+    "codigo": 9588,
+    "practica": "TOXOPLASMOSIS, Ac. IgM Anti- (IFI)",
+    "ub": 8
+},
+{
+    "codigo": 9591,
+    "practica": "TOXOPLASMOSIS - PCR",
+    "ub": 70
+},
+{
+    "codigo": 9597,
+    "practica": "t-PA INMUNOLOGICO",
+    "ub": "-"
+},
+{
+    "codigo": 9622,
+    "practica": "TRANSGLUTAMINASA, Ac. IgA Anti- (TGA)",
+    "ub": 23
+},
+{
+    "codigo": 9631,
+    "practica": "TRANSGLUTAMINASA, Ac. IgG Anti- (TGG)",
+    "ub": 23
+},
+{
+    "codigo": 9637,
+    "practica": "TRANSLOCACION, varias - cualitativa (c/u)",
+    "ub": 220
+},
+{
+    "codigo": 9642,
+    "practica": "TRANSLOCACION, varios - cuantitativa (c/u)",
+    "ub": 360
+},
+{
+    "codigo": 9644,
+    "practica": "TREPONEMA PALLIDUM, FTA ABS, Ac. IgM Anti-",
+    "ub": 10
+},
+{
+    "codigo": 9647,
+    "practica": "TRICHINELLA SPIRALIS, Ac. IgG Anti-/Ac. Totales",
+    "ub": 35
+},
+{
+    "codigo": 9649,
+    "practica": "TRICHINELLA SPIRALIS, Ac. IgM Anti-",
+    "ub": 35
+},
+{
+    "codigo": 9653,
+    "practica": "TRICHOMONAS, Cultivo para-",
+    "ub": "-"
+},
+{
+    "codigo": 9657,
+    "practica": "TRICLOROETANOL",
+    "ub": 12
+},
+{
+    "codigo": 9661,
+    "practica": "TRIIODOTIRONINA Libre (T3L)",
+    "ub": 10
+},
+{
+    "codigo": 9672,
+    "practica": "TRIPLE TEST",
+    "ub": 90
+},
+{
+    "codigo": 9682,
+    "practica": "TRIPSINA, Ac. Anti-",
+    "ub": "-"
+},
+{
+    "codigo": 9691,
+    "practica": "TRIPTOFANO",
+    "ub": 18
+},
+{
+    "codigo": 9716,
+    "practica": "TROMBOFILIA, Panel basico",
+    "ub": 230
+},
+{
+    "codigo": 9725,
+    "practica": "TROPONINA I -TnI",
+    "ub": 17
+},
+{
+    "codigo": 9734,
+    "practica": "TROPONINA T (cualitativo) - TnT-cuali",
+    "ub": 17
+},
+{
+    "codigo": 9735,
+    "practica": "TROPONINA T (cuantitativo) TnT-cuanti",
+    "ub": 25
+},
+{
+    "codigo": 9747,
+    "practica": "TUMOR, Necrosis Factor",
+    "ub": "-"
+},
+{
+    "codigo": 9759,
+    "practica": "UREAPLASMA UREALITICUM (Cultivo).",
+    "ub": "-"
+},
+{
+    "codigo": 9768,
+    "practica": "UROPORFIRINAS - materia fecal",
+    "ub": 15
+},
+{
+    "codigo": 9780,
+    "practica": "VACUNA LINFOCITARIA",
+    "ub": "-"
+},
+{
+    "codigo": 9787,
+    "practica": "VAGINAL, BALANCE DEL CONTENIDO (BACOVA)",
+    "ub": 6
+},
+{
+    "codigo": 9790,
+    "practica": "VANADIO, plasmatico o uriniario.",
+    "ub": 20
+},
+{
+    "codigo": 9793,
+    "practica": "VANCOMICINA",
+    "ub": 23
+},
+{
+    "codigo": 9810,
+    "practica": "VARICELA ZOSTER, Ac. IgM Anti-",
+    "ub": 25
+},
+{
+    "codigo": 9819,
+    "practica": "VARICELA ZOSTER, Ac. IgG Anti-",
+    "ub": 17
+},
+{
+    "codigo": 9828,
+    "practica": "VARICELA ZOSTER, Ag.",
+    "ub": 30
+},
+{
+    "codigo": 9834,
+    "practica": "VARICELA ZOSTER - DNA (PCR)",
+    "ub": 70
+},
+{
+    "codigo": 9846,
+    "practica": "VIGABATRINA",
+    "ub": 30
+},
+{
+    "codigo": 9853,
+    "practica": "VIRUS-JUNIN, Ac. Anti- IgG (FHA)",
+    "ub": 30
+},
+{
+    "codigo": 9858,
+    "practica": "VIRUS-JUNIN, Ac. Anti- IgM (FHA)",
+    "ub": 30
+},
+{
+    "codigo": 9870,
+    "practica": "VISCOSIDAD PLASMATICA",
+    "ub": "-"
+},
+{
+    "codigo": 9879,
+    "practica": "VITAMINA B1 (TIAMINA)",
+    "ub": 30
+},
+{
+    "codigo": 9887,
+    "practica": "VITAMINA B6 (PIRIDOXINA)",
+    "ub": 37
+},
+{
+    "codigo": 9896,
+    "practica": "VITAMINA C (liquido seminal)",
+    "ub": 30
+},
+{
+    "codigo": 9898,
+    "practica": "VITAMINA C (plaquetaria)",
+    "ub": 30
+},
+{
+    "codigo": 9905,
+    "practica": "VITAMINA D  (1,25-DIHIDROXICOLECALCIFEROL O\nCALCITRIOL - 1,25-VITAMINA D",
+    "ub": 75
+},
+{
+    "codigo": 9909,
+    "practica": "VITAMINA D2 + D3  (ERGOCALCIFEROL + 25-\nHIDROXICALCIFEROL O COLECALCIFEROL)",
+    "ub": 40
+},
+{
+    "codigo": 9913,
+    "practica": "VITAMINA D3 (25-HIDROXICALCIFEROL O\nCOLECALCIFEROL)",
+    "ub": 37
+},
+{
+    "codigo": 9930,
+    "practica": "VLDL-COLESTEROL, LIPOPROTEINA DE MUY BAJA\nDENSIDAD.",
+    "ub": 4
+},
+{
+    "codigo": 9939,
+    "practica": "XANTINA",
+    "ub": 10
+},
+{
+    "codigo": 9947,
+    "practica": "YERSINIA ENTEROCOLITICA, CULTIVO",
+    "ub": "-"
+},
+{
+    "codigo": 9960,
+    "practica": "Yo (PCA-1), Ac. Anti-",
+    "ub": 100
+},
+{
+    "codigo": 9973,
+    "practica": "ZAP 70",
+    "ub": 105
+},
+{
+    "codigo": 9978,
+    "practica": "ZIKA, virus (PCR)",
+    "ub": 100
+},
+{
+    "codigo": 9984,
+    "practica": "ZINC - pelo (Zn-pelo)",
+    "ub": 20
+},
+{
+    "codigo": 9987,
+    "practica": "ZINC - semen (Zn-semen)",
+    "ub": 25
+},
+{
+    "codigo": 9990,
+    "practica": "ZINC - urinario (Zn-urinario)",
+    "ub": 20
+}
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
+        <link rel="stylesheet" href="../styles/main_style.css">
+        <link rel="stylesheet" href="../styles/inputs_style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.14/jspdf.plugin.autotable.min.js"></script>
+        <title>Calculadora de Presupuestos</title>
+    </head>
+<body>
+    <section class="main-section">
+        <h1>Presupuesto</h1>
+        <div class="insert-nbu">
+            <div class="input1">
+                <input type="number" name="nbu" id="nbu" class="input_nbu" required>
+                <span class="span_nbu">NBU</span>
+            </div>
+            <span id="restart" class="material-symbols-outlined">restart_alt</span>
+        </div>
+        <div class="div-practice">
+            <div class="insert-practices">
+                <div class="input2">
+                    <input type="text" name="practice" class="input_practice" id="practice" required>
+                    <span class="span-practice">Práctica</span>
+                </div>
+                <h4 class="err-practice" id="err_practice">No existe esa práctica!</h4>
+                <h4 class="err-practice" id="repeat_practice">Ya se ingresó esa práctica!</h4>
+                <h4 class="err-practice" id="nbu_error">Falta cargar el NBU!</h4>
+            </div>
+            <div class="practices">
+                <ul id="practices-list">
+                    
+                </ul>
+                
+            </div>
+        </div>
+        <div class="final-section">
+            <h4 class="total">Total: <span id="monto_total">$0</span></h4>
+            <button id="print-pdf">Imprimir
+                <script type="module" src="../components/print.js"></script>
+            </button>
+        </div>
+    </section>
+    <aside class="search-section">
+        <h3>Buscador</h3>
+        <div class="input3">
+            <input type="text" class="input-search" id="input_search" required>
+            <span class="span-search">NOMBRE</span>
+        </div>
+        <div class="search-results">
+            <ul class="search-list">
+                <!-- <li class="search-result">HEMOGRAMA</li> -->
+            </ul>
+        </div>
+    </aside>
+    <script type="module" src="../components/script.js"></script>
+    <script type="module" src="../components/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+/* SCROLLBAR */
+
+*::-webkit-scrollbar {
+    width: 9px;
+    width: 9px;
+  }
+  *::-webkit-scrollbar-track {
+    border-radius: 20px;
+    background-color: #DFE9EB;
+  }
+  
+  *::-webkit-scrollbar-track:hover {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-track:active {
+    background-color: #B8C0C2;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #444;
+  }
+  
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+  }
+  
+  *::-webkit-scrollbar-thumb:active {
+    background-color: #888;
+  }
+
+/* INPUTS */
+
+.input1{
+  position: relative;
+  width: 150px;
+  height: 50px;
+  margin-right: 5px;
+}
+
+.input_nbu, .input_practice, .input-search{
+  width: 100%;
+  padding: 11px;
+  outline: none;
+  border: none;
+  color: #000;
+  font-size: 18px;
+  background: transparent;
+  border: 2px solid transparent;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+  transition: 0.1s;
+  border-bottom-left-radius: 8px;
+}
+
+.input_practice{
+  width: 80%;
+  padding: 15px 11px;
+}
+
+.input_nbu::-webkit-inner-spin-button{
+  appearance: none;
+}
+
+.span_nbu, .span-practice, .span-search{
+  position: absolute;
+  left: 0;
+  top: 7px;
+  transform: translateY(-4px);
+  margin-left: 10px;
+  padding: 10px;
+  pointer-events: none;
+  font-size: 16px;
+  color: #000;
+  text-transform: uppercase;
+  transition: 0.5s;
+  border-radius: 8px;
+  letter-spacing: 2px;
+}
+
+.span-practice{
+  top: 14px;
+}
+
+.input_nbu:valid ~ .span_nbu,
+.input_nbu:focus ~ .span_nbu{
+    transform: translateX(80px) translateY(-18px);
+    font-size: 0.8em;
+    padding: 5px 10px;
+    background: #000;
+    letter-spacing: 0.2em;
+    color: #fff;
+    border: 2px;
+  }
+
+.input_practice:valid ~ .span-practice,
+.input_practice:focus ~ .span-practice{
+    transform: translateX(40px) translateY(-25px);
+    font-size: 0.8em;
+    padding: 5px 10px;
+    background: #000;
+    letter-spacing: 0.2em;
+    color: #fff;
+    border: 2px;
+}
+
+.input-search:focus ~ .span-search,
+.input-search:valid ~ .span-search{
+    transform: translateX(97px) translateY(-22px);
+    font-size: 0.8em;
+    padding: 5px 10px;
+    background: #000;
+    letter-spacing: 0.2em;
+    color: #fff;
+    border: 2px;
+}
+
+
+.input_nbu:valid, .input_nbu:focus,
+.input_practice:valid, .input_practice:focus, 
+.input-search:focus, .input-search:valid{
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+
+.input2{
+  position: relative;
+  top: 30px;
+  width: 200px;
+  height: 50px;
+  margin-right: 30px;
+}
+
+.input3{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: 15px;
+    height: 50px;
+}
+
+.input-search{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 65%;
+    padding: 13px;
+}
+
+.span-search{
+  margin-left: 16%;
+  top: 11px;
+}
